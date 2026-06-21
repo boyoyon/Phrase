@@ -21,7 +21,7 @@
 
 <h3 id="A">A</h3>
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/attention_is_all_you_need.html">Attention is all you need</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/attention_is_all_you_need.html">Attention is all you need</a><br>
 　(必要なのは、Attentionだけ)
 </p>
 
@@ -32,12 +32,12 @@
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Bce.html">Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Bce.html">Все счастливые семьи похожи друг на друга, каждая несчастливая семья несчастлива по-своему.</a><br>
 　(幸せな家族はどれも同じように見え、不幸な家族はそれぞれに不幸である)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/beauty_and_clearness.html">The beauty and clearness of the dynamical theory, which asserts heat and light to be modes of motion, is at present obscured by two clouds.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/beauty_and_clearness.html">The beauty and clearness of the dynamical theory, which asserts heat and light to be modes of motion, is at present obscured by two clouds.</a><br>
 　(熱と光を運動の形態であるとする動的理論の美しさと明晰さは、現在、二つの雲によって曇らされている)
 </p>
 
@@ -47,7 +47,7 @@
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/but_I_wore_the_juice.html">But I wore the juice</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/but_I_wore_the_juice.html">But I wore the juice</a><br>
 　(でも、レモン汁を顔に塗ったんだ)
 </p>
 
@@ -75,7 +75,7 @@
 
 <h3 id="G">G</h3>
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/GIGO.html">GIGO: Garbage in, garbage out</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/GIGO.html">GIGO: Garbage in, garbage out</a><br>
 　(ゴミを入れれば、ゴミが出る)
 </p>
 
@@ -85,17 +85,17 @@
 <h3 id="I">I</h3>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/I_have_an_equation.html">I have an equation. do you have one too?</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/I_have_an_equation.html">I have an equation. do you have one too?</a><br>
 　(私は方程式を持っています。あなたも持っていますか?)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/I_was_taught.html">I was taught at school never to start a sentence without knowing the end of it.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/I_was_taught.html">I was taught at school never to start a sentence without knowing the end of it.</a><br>
 　(私は学校で、文章は終わりを考えずに書き始めてはいけませんと習いました)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/if_an_agent.html">if an agent had been trained to reason using  human thoughts and expert answers from 5,000 years ago it may have reasoned about a physical problem in  terms of animism</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/if_an_agent.html">if an agent had been trained to reason using  human thoughts and expert answers from 5,000 years ago it may have reasoned about a physical problem in  terms of animism</a><br>
 　(もしエージェントが5000年前の人間の思考や専門家の回答に基づいて推論するように訓練されていたとしたら、物理的な問題についてアニミズムの観点から推論したかもしれません)
 </p>
 
@@ -106,12 +106,12 @@
 Hinton
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/If_the_organism.html">If the organism carries a “small-scale model” of external reality and of its own possible actions within its head, it is able to try out various alternatives, conclude which is the best of them, react to future situations before they arise, utilise the knowledge of past events in dealing with the present and future, and in every way to react in a much fuller, safer, and more competent manner to the emergencies which face it.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/If_the_organism.html">If the organism carries a “small-scale model” of external reality and of its own possible actions within its head, it is able to try out various alternatives, conclude which is the best of them, react to future situations before they arise, utilise the knowledge of past events in dealing with the present and future, and in every way to react in a much fuller, safer, and more competent manner to the emergencies which face it.</a><br>
 　(生物が、外部の現実と自身の可能な行動の「小規模モデル」を頭の中に保持していれば、様々な選択肢を試してどれが最善かを結論づけ、将来の状況が発生する前に対応し、過去の出来事の知識を現在と未来への対処に活用し、あらゆる面で、直面する緊急事態に対してより包括的で安全かつ有能な方法で対応することができる。)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Ignorance.html">Ignorance more frequently begets confidence than does knowlledge</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Ignorance.html">Ignorance more frequently begets confidence than does knowlledge</a><br>
 　(無知は知識よりも頻繁に自信を生み出す)
 </p>
 
@@ -131,7 +131,7 @@ Hinton
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/It_is_much_harder.html">It is much harder to recall that a person's surname is Baker than to recall that a person is a baker.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/It_is_much_harder.html">It is much harder to recall that a person's surname is Baker than to recall that a person is a baker.</a><br>
 　(ある人の名字がベーカーであることを思い出すのは、その人がパン職人(ベーカー)であることを思い出すよりもはるかに難しい)
 </p>
 
@@ -161,7 +161,7 @@ Hinton
 <h3 id="M">M</h3>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Math_is_not_yet_ready.html">Mathematics is not yet ready for such problems.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Math_is_not_yet_ready.html">Mathematics is not yet ready for such problems.</a><br>
 　(数学はまだこのような問題に対する準備ができていない)
 </p>
 
@@ -171,7 +171,7 @@ Hinton
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Meine_Herren.html">Meine Herren, eine Fakultät ist doch keine Badeanstalt! </a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Meine_Herren.html">Meine Herren, eine Fakultät ist doch keine Badeanstalt! </a><br>
 　(諸君、大学は浴場ではない！)
 </p>
 
@@ -182,19 +182,19 @@ Hinton
 ニーチェの著作
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/moon_is_the_oldest_tv.html">Moon is the Oldest TV</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/moon_is_the_oldest_tv.html">Moon is the Oldest TV</a><br>
 　(月は最古のテレビ)
 </p>
 
 <h3 id="N">N</h3>
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/nature_controls_everything.html">Nature controls everything, even in atomic scale, as Buddha recognized a long long time ago.<a/><br>
+● <a href="https://boyoyon.github.io/Phrase/data/nature_controls_everything.html">Nature controls everything, even in atomic scale, as Buddha recognized a long long time ago.<a/><br>
 　(自然は原子レベルに至るまで全てを支配している。お釈迦様がずっと前に悟ったように。)
 </p>
 
 <h3 id="O">O</h3>
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Ogni_corpo_ombroso.html">Ogni corpo ombroso empie la circunstante aria d'infinite sue similitudini,</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Ogni_corpo_ombroso.html">Ogni corpo ombroso empie la circunstante aria d'infinite sue similitudini,</a><br>
 　(光と影の中のすべての物体は、周囲の空気を自身の無限のイメージで満たす。)
 </p>
 
@@ -211,12 +211,12 @@ Hinton
 <h3 id="R">R</h3>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/real_programmers.html">Real Programmers Don't Use Pascal</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/real_programmers.html">Real Programmers Don't Use Pascal</a><br>
 　(本物のプログラマーは Pascal を使わない)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Relativity.html">Relativity: The study of how, if you have a clock and I have a clock, it doesn’t mean a damn thing.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Relativity.html">Relativity: The study of how, if you have a clock and I have a clock, it doesn’t mean a damn thing.</a><br>
 　(相対性理論：もしあなたが時計を持っていて、私が時計を持っていたとしても、それは何の意味も持たないということを研究する学問)
 </p>
 
@@ -228,7 +228,7 @@ Hinton
 <h3 id="S">S</h3>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/seeking_an_improvement.html"> Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation.</a> <br>
+● <a href="https://boyoyon.github.io/Phrase/data/seeking_an_improvement.html"> Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation.</a> <br>
 　(研究者たちは、短期的に効果のある改善策を求めて、その分野における人間の知識を活用しようとするが、長期的に見て重要なのは、計算能力の活用のみである。)
 </p>
 
@@ -240,12 +240,12 @@ Hinton
 <h3 id="T">T</h3>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/take_your_phone.html">Take your phone, you can take a picture with him!</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/take_your_phone.html">Take your phone, you can take a picture with him!</a><br>
 　(彼(メッシ)と写真でも撮りにきたのか ?)
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/this_preface.html">This preface is a preface, which means that no one will read it.</a> <br>
+● <a href="https://boyoyon.github.io/Phrase/data/this_preface.html">This preface is a preface, which means that no one will read it.</a> <br>
 　(この序文は序文であり、つまり誰も読むことはない)
 </p>
 
@@ -260,7 +260,7 @@ Hinton
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/Tout_le_malheur.html">Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/Tout_le_malheur.html">Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre.</a><br>
 　(人間の不幸などというものは、どれも人間が部屋にじっとしていられないがために起こる)
 </p>
 
@@ -287,7 +287,7 @@ Hinton
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/we_have_something.html">We have something for everyone</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/we_have_something.html">We have something for everyone</a><br>
 　(どんな客にも自分にぴったりの出し物がある)
 </p>
 
@@ -344,7 +344,7 @@ Hinton
 
 <h3 id="Ya">や</h3>
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/data/yattemise.html">やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ</a>
+● <a href="https://boyoyon.github.io/Phrase/data/yattemise.html">やってみせ、言って聞かせて、させてみせ、ほめてやらねば、人は動かじ</a>
 </p>
 
 <h3 id="Ra">ら</h3>
