@@ -11,6 +11,16 @@
 　<a href="https://boyoyon.github.io/Phrase/index.html">気になるフレーズを集めてみる</a>
 </p>
 
+<p>
+●更新項目<br>
+・<a href="#but_on_one_supposition">絶対的に堅持すべき仮定が一つある</a><br>
+・<a href="#ButteredToastPhenomenon">バターを塗ったトースト</a><br>
+・<a href="#Entzauberung">世界の脱魔術化</a><br>
+・<a href="#PurposeOfStudyingEconomics">経済学を学ぶ目的</a><br>
+・<a href="#Power">権力</a><br>
+・<a href="#ThisWorld">世の中は･･･</a><br>
+</p>
+
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
 
 <a href="#a">あ</a>　<a href="#Ka">か</a>　<a href="#Sa">さ</a>　 <a href="#Ta">た</a>　 <a href="#Na">な</a>　 <a href="#Ha">は</a>　 <a href="#Ma">ま</a>　 <a href="#Ya">や</a>　 <a href="#Ra">ら</a>　<a href="#Wa">わ</a>
@@ -51,10 +61,21 @@
 　(でも、レモン汁を顔に塗ったんだ)
 </p>
 
+<p id="but_on_one_supposition">
+● <a href="https://boyoyon.github.io/Phrase/data/but_on_one_supposition.html">But on one supposition we should, in my opinion, absolutely hold fast:   the real factual situation of the system  S<sub>2</sub> is independent of what is done with the system  S<sub>1</sub> , which is spatially separated from the former"</a><br>
+　(しかし、私が絶対的に堅持すべき仮定が一つある。それは、システム S<sub>2</sub> の実際の状況は、空間的に分離されたシステム S<sub>1</sub> で行われることとは無関係であるという仮定である)
+</p>
+
 <h3 id="C">C</h3>
 
 
 <h3 id="D">D</h3>
+<p id="Entzauberung">
+● Das aber bedeutet: die Entzauberung der Welt.<br>
+　(これ(近代化)が意味するもの、すなわち、世界からの魔法の排除[脱魔術化]である）
+</p>
+Max Weber
+
 <p>
 ● Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?<br>
 　(残りの人生を砂糖水を売って過ごす気か、それとも世界を変えるチャンスが欲しいか？)
@@ -204,6 +225,23 @@ Hinton
 （周期3はカオスを意味する）
 </p>
 
+<p id="Power">
+● Power tends to corrupt, and absolute power corrupts absolutely<br>
+　(権力は腐敗する傾向がある。絶対的な権力は絶対的に腐敗する)
+</p>
+Lord Acton(アクトン卿)
+
+<p id="ButteredToastPhenomenon">
+● <a href="https://boyoyon.github.io/Phrase/data/probability_of_a_piece_of_toast.html">The probability of a piece of toast falling with the buttered side down is proportional to the cost of the carpet.</a><br>
+　(落としたトーストがバターを塗った面を下にして着地する確率は、カーペットの値段に比例する)
+</p>
+
+<p id="PurposeOfStudyingEconomics">
+● The purpose of studying economics is not to acquire a set of ready-made answers to economic questions, but to learn how to avoid being deceived by economists<br>
+　(経済学を学ぶ目的は、経済問題に対する既成の解答を得るためではない。経済学者に騙されない方法を学ぶためである)
+</p>
+Joan Robinson
+
 <h3 id="Q">Q</h3>
 <p>
 </p>
@@ -248,6 +286,12 @@ Hinton
 ● <a href="https://boyoyon.github.io/Phrase/data/this_preface.html">This preface is a preface, which means that no one will read it.</a> <br>
 　(この序文は序文であり、つまり誰も読むことはない)
 </p>
+
+<p id="ThisWorld">
+● This world is a comedy to those that think, a tragedy to those that feel.<br>
+　(世の中は考える人たちにとっては喜劇であり、感じる人たちにとっては悲劇である)
+</p>
+Horace Walpole
 
 <p>
 ● To be happy at home is the ultimate result of all ambition.<br>
