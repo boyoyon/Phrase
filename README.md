@@ -13,6 +13,10 @@
 
 <p>
 ●更新項目<br>
+・<a href="#aristarchus_was">アリスタルコスは･･･ </a><br>
+・<a href="#purpolse_of_computing">計算の目的は･･･</a><br>
+・<a href="#succumbed_to_planet">「惑星」が原因で亡くなった</a><br>
+---<br>
 ・<a href="#but_on_one_supposition">絶対的に堅持すべき仮定が一つある</a><br>
 ・<a href="#ButteredToastPhenomenon">バターを塗ったトースト</a><br>
 ・<a href="#Entzauberung">世界の脱魔術化</a><br>
@@ -33,6 +37,12 @@
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/attention_is_all_you_need.html">Attention is all you need</a><br>
 　(必要なのは、Attentionだけ)
+</p>
+
+<p id="aristarchus_was">
+● <a href="https://boyoyon.github.io/Phrase/data/aristarchus_was.html">Aristarchus was the first person to hold that the Sun rather than the Earth is at the center of
+the planetary system, that all the planets go around the Sun rather than the Earth.</a><br>
+　(アリスタルコスは、地球ではなく太陽が惑星系の中心にあり、すべての惑星が地球ではなく太陽の周りを回っていると考えた最初の人物でした。)
 </p>
 
 <h3 id="B">B</h3>
@@ -236,6 +246,11 @@ Lord Acton(アクトン卿)
 　(落としたトーストがバターを塗った面を下にして着地する確率は、カーペットの値段に比例する)
 </p>
 
+<p id="purpolse_of_computing">
+● <a href="https://boyoyon.github.io/Phrase/data/purpose_of_computing.html">The purpose of computing is insight, not numbers</a><br>
+　(計算の目的は洞察であり、数値ではない)
+</p>
+
 <p id="PurposeOfStudyingEconomics">
 ● The purpose of studying economics is not to acquire a set of ready-made answers to economic questions, but to learn how to avoid being deceived by economists<br>
 　(経済学を学ぶ目的は、経済問題に対する既成の解答を得るためではない。経済学者に騙されない方法を学ぶためである)
@@ -328,6 +343,12 @@ Horace Walpole
 <p>
 ● Walking through doorways causes forgetting<br>
 　(ドアを通り抜けると忘れてしまう)
+</p>
+
+<p id="succumbed_to_planet">
+● <a href="https://boyoyon.github.io/Phrase/data/succumbed_to_planet.html">we find that, of 9,535 deaths, 13 people succumbed to ‘planet,’ more than died of cancer. I wonder what the symptoms were. </a><br>
+　(9,535人の死者のうち、13人が「惑星」が原因で亡くなったことがわかりました。これは癌による死者数よりも多い数字です。一体どのような症状だったのでしょうか)
+
 </p>
 
 <p>
