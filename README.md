@@ -14,8 +14,11 @@
 <p>
 ●更新項目<br>
 ・<a href="#aristarchus_was">アリスタルコスは･･･ </a><br>
+・<a href="#measurement_of_curiosity">好奇心を欠乏感として測定する</a><br>
 ・<a href="#purpolse_of_computing">計算の目的は･･･</a><br>
 ・<a href="#succumbed_to_planet">「惑星」が原因で亡くなった</a><br>
+・<a href="#unreasonable_effectiveness">自然科学における数学の不合理な有効性</a><br>
+・<a href="#walking_through_doorways">ドアを通り抜けると忘れてしまう</a><br>
 ---<br>
 ・<a href="#but_on_one_supposition">絶対的に堅持すべき仮定が一つある</a><br>
 ・<a href="#ButteredToastPhenomenon">バターを塗ったトースト</a><br>
@@ -196,8 +199,8 @@ Hinton
 　(数学はまだこのような問題に対する準備ができていない)
 </p>
 
-<p>
-● The Measurement of Curiosity As a Feeling of Deprivation<br>
+<p id="measurement_of_curiosity">
+● <a href="https://boyoyon.github.io/Phrase/data/measurement_of_curiosity.html">The Measurement of Curiosity As a Feeling of Deprivation</a><br>
 　(好奇心を欠乏感として測定する)
 </p>
 
@@ -329,8 +332,8 @@ Horace Walpole
 
 <h3 id="U">U</h3>
 
-<p>
-● The Unreasonable Effectiveness of Mathematics in the Natural Sciences<br>
+<p id="unreasonable_effectiveness">
+● <a href="https://boyoyon.github.io/Phrase/data/unreasonable_effectiveness.html">The Unreasonable Effectiveness of Mathematics in the Natural Sciences</a><br>
 　(自然科学における数学の不合理な有効性)
 </p>
 
@@ -340,8 +343,8 @@ Horace Walpole
 
 <h3 id="W">W</h3>
 
-<p>
-● Walking through doorways causes forgetting<br>
+<p id="walking_through_doorways">
+● <a href="https://boyoyon.github.io/Phrase/data/walking_through_doorways.html">Walking through doorways causes forgetting</a><br>
 　(ドアを通り抜けると忘れてしまう)
 </p>
 
