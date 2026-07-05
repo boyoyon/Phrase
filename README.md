@@ -13,17 +13,14 @@
 
 <p>
 ●更新項目<br>
+・<a href="#backwards_referral">時間をさかのぼって</a><br>
+・<a href="#intelligence_is_compression">知性は圧縮である</a><br>
+・<a href="#learn_to_forget">忘れることを学ぶ</a><br>
+---<br>
 ・<a href="#aristotle_said">アリストテレスは間違ったことをいろいろと言いました</a><br>
 ・<a href="#if_you_suspect">自分が「ダメだ」と思えば･･･</a><br>
 ・<a href="#strength_of_weak_ties">弱い紐帯の強さ</a><br>
 ・<a href="#von_endlichen_mitteln">有限の手段によって無限の表現を行う</a><br>
----<br>
-・<a href="#aristarchus_was">アリスタルコスは･･･ </a><br>
-・<a href="#measurement_of_curiosity">好奇心を欠乏感として測定する</a><br>
-・<a href="#purpolse_of_computing">計算の目的は･･･</a><br>
-・<a href="#succumbed_to_planet">「惑星」が原因で亡くなった</a><br>
-・<a href="#unreasonable_effectiveness">自然科学における数学の不合理な有効性</a><br>
-・<a href="#walking_through_doorways">ドアを通り抜けると忘れてしまう</a><br>
 </p>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -55,6 +52,11 @@ the planetary system, that all the planets go around the Sun rather than the Ear
 
 
 <h3 id="B">B</h3>
+<p id="backwards_referral">
+● <a href="https://boyoyon.github.io/Phrase/data/backwards_referral.html">backwards  in time</a><br>
+　(時間をさかのぼって)
+</p>
+
 <p>
 ● Bayesian surprise attracts human attention<br>
 　(ベイズ的な驚きは人間の注意をひきつける)
@@ -111,6 +113,13 @@ Max Weber
 
 <h3 id="F">F</h3>
 <p>
+● For myself I am an optimist—it does not seem to be much use being anything else.<br>
+　(私自身は楽観主義者だ。それ以外のものになったところで、たいして役に立ちそうもないからね)<br>
+　チャーチル<br>
+<br>
+　A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.<br>
+　(悲観主義者はあらゆる機会の中に困難を見出す。楽観主義者はあらゆる困難の中に機会を見出す)<br>
+　はチャーチルの公式な発言録や著作には存在しないらしい･･･
 </p>
 
 <h3 id="G">G</h3>
@@ -175,6 +184,11 @@ Hinton
 　(イノベーションとは、1,000個のことに『ノー』と言うことだ)
 </p>
 
+<p id="intelligence_is_compression">
+● <a href="https://boyoyon.github.io/Phrase/data/intelligence_is_compression.html">Intelligence is compression</a><br>
+　(知性は圧縮である)
+</p>
+
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/It_is_much_harder.html">It is much harder to recall that a person's surname is Baker than to recall that a person is a baker.</a><br>
 　(ある人の名字がベーカーであることを思い出すのは、その人がパン職人(ベーカー)であることを思い出すよりもはるかに難しい)
@@ -188,6 +202,12 @@ Hinton
 
 
 <h3 id="L">L</h3>
+
+<p id="learn_to_forget">
+● <a href="https://boyoyon.github.io/Phrase/data/learn_to_forget.html">learn to forget</a><br>
+　(忘れることを学ぶ)
+</p>
+
 <p>
 ● Let's go put a dent in the universe.<br>
 　(宇宙に衝撃を与えよう)
@@ -386,6 +406,16 @@ Horace Walpole
 <p>
 ● When a measure becomes a target, it ceases to be a good measure.<br>
 　(ある指標が目標になると、それはもはや良い指標ではなくなる)Goodhart's Law
+</p>
+
+<p>
+● When the facts change, I change my mind. What do you do, sir?<br>
+　(事実が変われば、私は考えを変えます。あなたはどうしますか、閣下？)<br>
+ケインズの言葉とされるが、出典が見当たらない。<br>
+ポール・サミュエルソンがテレビ番組インタビューのなかで言った<br>
+　When events change, I change my mind. What do you do?<br>
+　(出来事が変われば、私は考えを変えます。あなたはどうしますか？）<br>
+が起源？
 </p>
 
 <h3 id="X">X</h3>
