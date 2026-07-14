@@ -13,22 +13,32 @@
 
 <p>
 ●更新項目<br>
-
+・<a href="#five_computers">世界市場はせいぜい5台のコンピュータで十分だろう</a>　[言ってなかった模様]<br>
+・<a href="#640K_ought_to_be_enough">640KBあれば誰にとっても十分だろう</a>　[言ってなかった模様]<br>
+・<a href="#ChatGPT_is_a_blurry">ChatGPT は WEB のぶれた JPEG</a><br>
+・<a href="#middle_voice">かつて、能動態でも受動態でもない「中動態」なる態が存在して･･･</a><br>
+・<a href="#there_are_hosts_of_dopes">ここには大勢の愚か者がいる</a><br>
+・<a href="#red_flag">間抜けな悪法としていまだに語り草となっている</a><br>
+---<br>
 ・<a href="#bayesian_surprise">ベイズ的な驚きは人間の注意をひきつける</a><br>
 ・<a href="#instrumental_convergence">ほぼすべての知的エージェントが追求するであろう道具的目標がいくつか存在する</a><br>
 ・<a href="#self_preservation">手段として自身の生存を気にかけるようになるだろう</a><br>
----<br>
-・<a href="#backwards_referral">時間をさかのぼって</a><br>
-・<a href="#intelligence_is_compression">知性は圧縮である</a><br>
-・<a href="#learn_to_forget">忘れることを学ぶ</a><br>
-</p>
+<br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
 
 <a href="#a">あ</a>　<a href="#Ka">か</a>　<a href="#Sa">さ</a>　 <a href="#Ta">た</a>　 <a href="#Na">な</a>　 <a href="#Ha">は</a>　 <a href="#Ma">ま</a>　 <a href="#Ya">や</a>　 <a href="#Ra">ら</a>　<a href="#Wa">わ</a>
 
 <h3 id="0-9">0～9</h3>
-<p>
+
+<p id="five_computers">
+● [5 computurs]　<a href="https://boyoyon.github.io/Phrase/data/five_computers.html">I think there is a world market for about five computers.</a><br>
+　(世界市場はせいぜい 5 台のコンピュータで十分だろう)　[言ってなかった模様]
+</p>
+
+<p id="640K_ought_to_be_enough">
+● <a href="https://boyoyon.github.io/Phrase/data/640K_ought_to_be_enough.html">640K ought to be enough for anybody.</a><br>
+　(640KBあれば誰にとっても十分だろう)　[言ってなかった模様]
 </p>
 
 <h3 id="A">A</h3>
@@ -99,6 +109,10 @@ the planetary system, that all the planets go around the Sun rather than the Ear
 
 <h3 id="C">C</h3>
 
+<p id="ChatGPT_is_a_blurry">
+● <a href="https://boyoyon.github.io/Phrase/data/chatGPT_is_a_blurry.html">ChatGPT Is a Blurry JPEG of the Web</a><br>
+　(ChatGPTはWEBのぼやけたJPEG)
+</p>
 
 <h3 id="D">D</h3>
 <p id="Entzauberung">
@@ -343,11 +357,22 @@ Joan Robinson
 　(弱い紐帯の強さ)
 </p>
 
+<p id="succumbed_to_planet">
+● <a href="https://boyoyon.github.io/Phrase/data/succumbed_to_planet.html"> succumbed to ‘planet,’･･･ I wonder what the symptoms were. </a><br>
+　(「惑星」が原因で亡くなった。一体どのような症状だったのでしょうか)
+
+</p>
+
 <h3 id="T">T</h3>
 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/take_your_phone.html">Take your phone, you can take a picture with him!</a><br>
 　(彼(メッシ)と写真でも撮りにきたのか ?)
+</p>
+
+<p id="there_are_hosts_of_dopes">
+● <a href="https://boyoyon.github.io/Phrase/data/there_are_hosts_of_dopes.html">there are hosts of dopes here</a><br>
+　(ここには大勢の愚か者がいる)
 </p>
 
 <p>
@@ -401,12 +426,6 @@ Horace Walpole
 　(ドアを通り抜けると忘れてしまう)
 </p>
 
-<p id="succumbed_to_planet">
-● <a href="https://boyoyon.github.io/Phrase/data/succumbed_to_planet.html">we find that, of 9,535 deaths, 13 people succumbed to ‘planet,’ more than died of cancer. I wonder what the symptoms were. </a><br>
-　(9,535人の死者のうち、13人が「惑星」が原因で亡くなったことがわかりました。これは癌による死者数よりも多い数字です。一体どのような症状だったのでしょうか)
-
-</p>
-
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/we_have_something.html">We have something for everyone</a><br>
 　(どんな客にも自分にぴったりの出し物がある)
@@ -419,7 +438,7 @@ Horace Walpole
 
 <p>
 ● When a measure becomes a target, it ceases to be a good measure.<br>
-　(ある指標が目標になると、それはもはや良い指標ではなくなる)Goodhart's Law
+　(ある指標が目標になると、それはもはや良い指標ではなくなる)
 </p>
 
 <p>
@@ -450,14 +469,13 @@ Horace Walpole
 </p>
 
 <h3 id="Ka">か</h3>
-<p>
-</p>
 
 <h3 id="Sa">さ</h3>
 
 
 <h3 id="Ta">た</h3>
-<p>
+<p id="middle_voice">
+● [中動態]　<a href="https://boyoyon.github.io/Phrase/data/middle_voice.html">かつて、能動態でも受動態でもない「中動態」なる態が存在して･･･</a><br>
 </p>
 
 <h3 id="Na">な</h3>
@@ -470,7 +488,8 @@ Horace Walpole
 </p>
 
 <h3 id="Ma">ま</h3>
-<p>
+<p id="red_flag">
+● <a href="https://boyoyon.github.io/Phrase/data/red_flag.html">間抜けな悪法としていまだに語り草となっている,<a>
 </p>
 
 <h3 id="Ya">や</h3>
