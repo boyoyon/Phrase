@@ -14,6 +14,11 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/learning_alters_the_shape.html">学習は、進化が作用する探索空間の形状を変化させ･･･</a><br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
+
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/if_strong_supervision.html">思考の連鎖に対して強力な監視を行うと、モデルは自らの意図を隠すことを学習してしまう可能性があります</a><br>
 
 ・<a href="https://boyoyon.github.io/Phrase/data/if_intelligence_was_a_cake.html">知能をケーキに例えるなら･･･</a><br>
@@ -85,7 +90,11 @@ the planetary system, that all the planets go around the Sun rather than the Ear
 
 <p>
 ● The best way to predict the future is to invent it.<br>
-　(未来を予測する最善の方法は、それを発明することだ)
+　(未来を予測する最善の方法は、それを発明することだ)<br>
+<br>
+ “Don’t worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn’t violate too many of Newton’s Laws!”<br>
+　(他人が何をするかを心配するな…未来を予測する最良の方法は、未来を創造することだ。十分な資金があれば、本当に賢い人なら、ニュートンの法則にあまり違反しない限り、ほとんど何でもできる！)
+　Alan Kay 1971
 </p>
 
 <p>
@@ -144,6 +153,16 @@ Max Weber
 　A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.<br>
 　(悲観主義者はあらゆる機会の中に困難を見出す。楽観主義者はあらゆる困難の中に機会を見出す)<br>
 　はチャーチルの公式な発言録や著作には存在しないらしい･･･
+</p>
+
+<p>
+● The future cannot be predicted, but futures can be invented.<br>
+　(未来を予測することはできない、しかし未来を発明することはできる)<br>
+　『Inventing the Future』Dennis Gabor (1963)<br>
+　　ホログラフィーの発明でノーベル物理学賞を受賞したハンガリー系イギリス人の物理学者<br>
+　→  The best way to predict the future is to invent it.<br>
+　　（未来を予測する最善の方法は、それを発明することだ）<br>
+　　　Alan Kay 1971
 </p>
 
 <h3 id="G">G</h3>
@@ -239,6 +258,11 @@ Hinton
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/learning_alters_the_shape.html">Learning alters the shape of the search space in which evolution operates ...</a><br>
+　(学習は、進化が作用する探索空間の形状を変化させ･･･) 
+</p>
+
+<p>
 ● Let's go put a dent in the universe.<br>
 　(宇宙に衝撃を与えよう)
 </p>
@@ -295,6 +319,10 @@ Hinton
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/nature_controls_everything.html">Nature controls everything, even in atomic scale, as Buddha recognized a long long time ago.<a/><br>
 　(自然は原子レベルに至るまで全てを支配している。お釈迦様がずっと前に悟ったように。)
+</p>
+
+<p>
+・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
 </p>
 
 <h3 id="O">O</h3>
