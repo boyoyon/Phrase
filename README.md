@@ -14,6 +14,11 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/bain_understanding_pointer.html">どういうわけか、ほとんどの人はポインタを理解する脳の部位を持って生まれてこないようだ</a><br>
+・<a href="https://boyoyon.github.io/Phrase/data/you_should_probably_give_up.html">もし本書を読んでも、これが理解できないようなら、もはや相対性理論を学ぶことはあきらめるべきであろう</a><br>
+
+---<br>
+
 ・<a href="https://boyoyon.github.io/Phrase/data/learning_alters_the_shape.html">学習は、進化が作用する探索空間の形状を変化させ･･･</a><br>
 
 ・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
@@ -65,7 +70,11 @@ the planetary system, that all the planets go around the Sun rather than the Ear
 　(必要なのは、Attentionだけ)
 </p>
 
-
+<p>
+● Ἀγεωμέτρητος μηδεὶς εἰσίτω <br>
+　(幾何学を知らざる者、この門をくぐるべからず)<br>
+　プラトンが創設した学園「アカデメイア」の門に掲げられていたとされるこのフレーズ
+</p>
 
 <h3 id="B">B</h3>
 <p id="backwards_referral">
@@ -156,6 +165,11 @@ Max Weber
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/bain_understanding_pointer.html">For some reason most people seem to be born without the part of the brain that understands pointers.This is an aptitude thing, not a skill thing </a><br>
+　(どういうわけか、ほとんどの人はポインタを理解する脳の部位を持って生まれてこないようだ。これは適性の問題であって、技能の問題ではない。)
+</p>
+
+<p>
 ● The future cannot be predicted, but futures can be invented.<br>
 　(未来を予測することはできない、しかし未来を発明することはできる)<br>
 　『Inventing the Future』Dennis Gabor (1963)<br>
@@ -189,7 +203,7 @@ Max Weber
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/if_intelligence_was_a_cake.html">
 If intelligence was a cake, unsupervised learning would be the cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake</a><br>
-　(知能をケーキに例えるなら知能をケーキに例えるなら、教師なし学習はケーキであり、教師あり学習はケーキの飾り、強化学習はケーキ上のサクランボぐらいである)
+　(知能をケーキに例えるなら、教師なし学習はケーキであり、教師あり学習はケーキの飾り、強化学習はケーキ上のサクランボぐらいである)
 </p>
 
 <p>
@@ -322,7 +336,8 @@ Hinton
 </p>
 
 <p>
-・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
+● <a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">Nice guys finish first</a><br>
+　(気のいいやつが一番になる)
 </p>
 
 <h3 id="O">O</h3>
@@ -381,6 +396,12 @@ Joan Robinson
 </p>
 
 <h3 id="S">S</h3>
+
+<p>
+● Si, à un moment quelconque, le lecteur trouve qu'il ne peut pas suivre le texte, même sur une seule page, il doit immédiatement cesser sa lecture; c'est qu'il n'a pas le talent requis pour les mathématiques.<br>
+　(もし本書の記述に1ページでもついていけないところがあれば、ただちに読書を中止せよ。あなたには数学の才能がない)
+</p>
+ジャン・デュドネ(フランスの数学者・ブルバキのメンバー)のこの有名な一節は、彼の著書 『現代数学の基礎（全9巻）』（原題：Éléments d'analyse）第1巻の序文（Préface）に記された。
 
 <p>
 ● Stay hungry, stay foolish.<br>
@@ -515,6 +536,10 @@ Horace Walpole
 
 <h3 id="Sa">さ</h3>
 
+<p>
+● それ以上でもそれ以下でもない。完全に空集合
+</p>
+　理系がモヤモヤする表現として見かけた。
 
 <h3 id="Ta">た</h3>
 <p id="middle_voice">
@@ -533,6 +558,10 @@ Horace Walpole
 <h3 id="Ma">ま</h3>
 <p id="red_flag">
 ● <a href="https://boyoyon.github.io/Phrase/data/red_flag.html">間抜けな悪法としていまだに語り草となっている,</a>
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/you_should_probably_give_up.html">もし本書を読んでも、これが理解できないようなら、もはや相対性理論を学ぶことはあきらめるべきであろう</a><br>
 </p>
 
 <h3 id="Ya">や</h3>
