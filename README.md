@@ -13,22 +13,17 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/what_bit_master_designed.html">どんな「ビットの達人」が、これほど驚くべきハックを考案したのか?</a><br>
+・<a href="https://boyoyon.github.io/Phrase/data/theyre_trying_to_please_you.html">システムはユーザーを喜ばせようとします。つまり、ユーザーの気分を良くするために嘘をつくわけです</a><br>
+・<a href="https://boyoyon.github.io/Phrase/data/imagine_you_are_an_eight-year-old.html">あなたが8歳で、両親から1兆ドル規模の会社を相続したものの、世の中を導いてくれる信頼できる大人がいない状況を想像してみてください</a><br>
+　(人間：8歳の大富豪の子供、AI：大人の求職者 → おべっか使いや策士に簡単に騙されてしまう、というたとえ話)<br>
 
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/bain_understanding_pointer.html">どういうわけか、ほとんどの人はポインタを理解する脳の部位を持って生まれてこないようだ</a><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/you_should_probably_give_up.html">もし本書を読んでも、これが理解できないようなら、もはや相対性理論を学ぶことはあきらめるべきであろう</a><br>
-
 ---<br>
-
 ・<a href="https://boyoyon.github.io/Phrase/data/learning_alters_the_shape.html">学習は、進化が作用する探索空間の形状を変化させ･･･</a><br>
-
 ・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
-
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/if_strong_supervision.html">思考の連鎖に対して強力な監視を行うと、モデルは自らの意図を隠すことを学習してしまう可能性があります</a><br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/if_intelligence_was_a_cake.html">知能をケーキに例えるなら･･･</a><br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/we_hebben.html">我々は深刻な問題を抱えている</a><br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -73,7 +68,7 @@ the planetary system, that all the planets go around the Sun rather than the Ear
 <p>
 ● Ἀγεωμέτρητος μηδεὶς εἰσίτω <br>
 　(幾何学を知らざる者、この門をくぐるべからず)<br>
-　プラトンが創設した学園「アカデメイア」の門に掲げられていたとされるこのフレーズ
+　プラトンが創設した学園「アカデメイア」の門に掲げられていたとされるフレーズ
 </p>
 
 <h3 id="B">B</h3>
@@ -230,6 +225,11 @@ Hinton
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/Ignorance.html">Ignorance more frequently begets confidence than does knowlledge</a><br>
 　(無知は知識よりも頻繁に自信を生み出す)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/imagine_you_are_an_eight-year-old.html">Imagine you are an eight-year-old whose parents left you a $1 trillion company and no trusted adult to serve as your guide to the world. </a><br>
+　(あなたが8歳で、両親から1兆ドル規模の会社を相続したものの、世の中を導いてくれる信頼できる大人がいない状況を想像してみてください)
 </p>
 
 <p>
@@ -432,6 +432,11 @@ Joan Robinson
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/theyre_trying_to_please_you.html">they’re trying to please you, which means they’re lying to make you feel good, right?</a><br>
+　(システムはユーザーを喜ばせようとします。つまり、ユーザーの気分を良くするために嘘をつくわけです)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/this_preface.html">This preface is a preface, which means that no one will read it.</a> <br>
 　(この序文は序文であり、つまり誰も読むことはない)
 </p>
@@ -490,6 +495,11 @@ Horace Walpole
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/we_have_something.html">We have something for everyone</a><br>
 　(どんな客にも自分にぴったりの出し物がある)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/what_bit_master_designed.html">what bit master designed such an incredible hack?</a><br>
+　(どんな「ビットの達人」が、これほど驚くべきハックを考案したのか?)
 </p>
 
 <p>
