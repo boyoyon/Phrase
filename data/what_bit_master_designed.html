@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Chris Lomont</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Chris Lomont</center></h1>
+
+<h3><a href="https://www.lomont.org/papers/2003/InvSqrt.pdf">高速逆平方根</a> (2003)　[pdf]</h3>
+<p>
+Reading the math programming forum on www.gamedev.net [1], I
+ran across an interesting method to compute an inverse square root.
+The C code was essentially (my comments):
+
+<br><span style="color:blue;">
+www.gamedev.net [1] の数学プログラミングに関するフォーラムを読んでいたところ、逆平方根を計算する興味深い手法を見つけました。そのC言語のコードは、要するに次のようなものでした（コメントは私によるものです）：
+</span>
+</p>
+
+<p>
+float InvSqrt(float x)<br>
+{<br>
+　　　　float xhalf = 0.5f*x;<br>
+　　　　int i = *(int*)&x;　　　　<span style="color:green;">// 浮動小数のビット列を取得する</span><br>
+　　　　i = <strong><span style="color:magenta;">0x5f3759df</span></strong> - (i>>1);　<span style="color:green;">// 初期推定値 y0 を与える</span><br>
+　　　　x = *(float*)&i;　　　　　<span style="color:green;">// 浮動小数に戻す</span><br>
+　　　　x = x*(1.5f-xhalf*x*x);　　<span style="color:green;">// ニュートン・ステップを繰り返して精度を上げる</span><br>
+　　　　return x;<br>
+}<br>
+</p>
+
+<p>
+<strong>The interesting part was the constant 0x5f3759df</strong>: where did it
+come from and why does the code work? Some quick testing in Visual
+C++.NET [2] showed the code above to be roughly 4 times faster than
+the naive (float)(1.0/sqrt(x)), and the maximum relative error
+over all floating point numbers was 0.00175228, so the method seems
+very useful. Three immediate questions were: 1) how does it work, 2)
+can it be improved, and 3) <strong>what bit master designed such an incredible
+hack?</strong>
+<br><span style="color:blue;">
+<strong>興味深いのは、定数 `0x5f3759df` です</strong>。これは一体どこから来たのか、そしてなぜこのコードが機能するのでしょうか？Visual C++.NET [2] で簡単にテストしてみたところ、このコードは単純な `(float)(1.0/sqrt(x))` に比べて約4倍高速であり、すべての浮動小数点数における最大相対誤差は 0.00175228 でした。つまり、この手法は非常に有用だと言えます。そこで、すぐに3つの疑問が浮かびました。1) どのような仕組みなのか、2) 改良の余地はあるか、そして 3) <strong>どんな「ビットの達人」が、これほど驚くべきハックを考案したのか？</strong>
+</span>
+</p>
+
+<a href="https://en.wikipedia.org/wiki/Fast_inverse_square_root">wikipedia: Fast inverse square root</a>
+<p>
+このアルゴリズムは、1999 年にQuake III Arenaに実装されたことで最もよく知られています。その後のハードウェアの進歩、特にx86 SSE命令によりrsqrtss、このアルゴリズムは現代のコンピュータには一般的に最適な選択肢ではありませんが[ 1 ]、興味深い歴史的例として残っています[ 2 ] 。
+</p>
+
+<p>
+バークレーのウィリアム・カハンとKC・ングは、1986年5月に未発表の論文で、ビット操作技術とニュートン反復法を用いて平方根を計算する方法を説明した。[ 4 ] 1980年代後半、アーデント・コンピュータのクリーブ・モーラーはこの技術を知り[ 5 ]、同僚のグレッグ・ウォルシュに伝えた。グレッグ・ウォルシュは、現在では有名な定数かつ高速な逆平方根アルゴリズムを考案した。ゲイリー・タロリは当時アーデントに資金提供していたクボタのコンサルタントを務めており、おそらく1994年頃にこのアルゴリズムを3dfx Interactiveに持ち込んだと思われる。 [ 6 ] [ 7 ]
+</p>
+
+<p>
+ジム・ブリンは、 1997年のIEEE Computer Graphics and Applications誌のコラムで、逆平方根の簡単な近似法を実証した。[ 8 ]他の同時代の3Dビデオゲームのリバースエンジニアリングにより、 Activisionの1997年のInterstate '76でこのアルゴリズムのバリエーションが発見された。[ 9 ]
+</p>
+
+<p>
+一人称視点シューティングゲームであるQuake III Arenaは、 1999年にid Softwareからリリースされ、このアルゴリズムが使用されました。Brian Hookが3dfxからid Softwareにこのアルゴリズムを持ち込んだ可能性があります。 [ 6 ]このコードに関する議論は、2000年に中国の開発者フォーラムCSDNに登場し、 [ 10 ] Usenetとgamedev.netフォーラムは2002年と2003年にこのコードを広く拡散しました。 [ 11 ]誰がこのアルゴリズムを書いたのか、定数がどのように導出されたのかについて憶測が飛び交い、 John Carmackだと推測する人もいました。 [ 7 ] Quake IIIの完全なソースコードはQuakeCon 2005で公開されましたが、答えは得られませんでした。作者に関する疑問は、 SlashdotでBeyond3Dの憶測が人気になった後、オリジナル作者のGreg WalshがBeyond3Dに連絡したことで、2006年に解決されました。 [ 6 ]
+</p>
+
+<p>
+2007年に、このアルゴリズムはフィールドプログラマブルゲートアレイ（FPGA）を使用した専用ハードウェア頂点シェーダーに実装されました。[ 12 ] [ 13 ]
+</p>
+    </body>
+</html>
