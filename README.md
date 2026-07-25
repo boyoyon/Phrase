@@ -536,7 +536,7 @@ Horace Walpole
 
 <h3 id="Y">Y</h3>
 
-<p id="company_it_keeps>
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/company_it_keeps.html">You shall know a word by the company it keeps.</a><br>
 　(あなたは言葉がいつも一緒にいる仲間によって、その言葉を知るだろう)
 </p>
