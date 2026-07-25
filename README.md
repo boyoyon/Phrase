@@ -13,17 +13,15 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/everyone_dies.html"> 誰かがそれを作れば、全員が死ぬ</a><br>
+・<a href="https://boyoyon.github.io/Phrase/data/company_it_keeps.html">あなたは言葉がいつも一緒にいる仲間によって、その言葉を知るだろう)</a><br>
+・<a href="https://boyoyon.github.io/Phrase/data/discovery_by_dreaming.html">
+その測定可能な価値は、夢を見ている脳が行うように、まだ同時に起こっていない経験を超えて知識を組み換えることにあるのかもしれません</a><br>
+
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/what_bit_master_designed.html">どんな「ビットの達人」が、これほど驚くべきハックを考案したのか?</a><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/theyre_trying_to_please_you.html">システムはユーザーを喜ばせようとします。つまり、ユーザーの気分を良くするために嘘をつくわけです</a><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/imagine_you_are_an_eight-year-old.html">あなたが8歳で、両親から1兆ドル規模の会社を相続したものの、世の中を導いてくれる信頼できる大人がいない状況を想像してみてください</a><br>
-　(人間：8歳の大富豪の子供、AI：大人の求職者 → おべっか使いや策士に簡単に騙されてしまう、というたとえ話)<br>
-
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/bain_understanding_pointer.html">どういうわけか、ほとんどの人はポインタを理解する脳の部位を持って生まれてこないようだ</a><br>
-・<a href="https://boyoyon.github.io/Phrase/data/you_should_probably_give_up.html">もし本書を読んでも、これが理解できないようなら、もはや相対性理論を学ぶことはあきらめるべきであろう</a><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/learning_alters_the_shape.html">学習は、進化が作用する探索空間の形状を変化させ･･･</a><br>
-・<a href="https://boyoyon.github.io/Phrase/data/nice_guys_finish_first.html">気のいいやつが一番になる</a><br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -196,6 +194,11 @@ Max Weber
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/everyone_dies.html"> If Anyone Builds It, Everyone Dies</a><br>
+　(誰かがそれを作れば、全員が死ぬ)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/if_intelligence_was_a_cake.html">
 If intelligence was a cake, unsupervised learning would be the cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake</a><br>
 　(知能をケーキに例えるなら、教師なし学習はケーキであり、教師あり学習はケーキの飾り、強化学習はケーキ上のサクランボぐらいである)
@@ -255,6 +258,11 @@ Hinton
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/It_is_much_harder.html">It is much harder to recall that a person's surname is Baker than to recall that a person is a baker.</a><br>
 　(ある人の名字がベーカーであることを思い出すのは、その人がパン職人(ベーカー)であることを思い出すよりもはるかに難しい)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/discovery_by_dreaming.html">its measurable value may instead lie in recombining knowledge across experiences that have not yet co-occurred, exactly as a dreaming brain does.</a><br>
+　(その測定可能な価値は、夢を見ている脳が行うように、まだ同時に起こっていない経験を超えて知識を組み換えることにあるのかもしれません)
 </p>
 
 <h3 id="J">J</h3>
