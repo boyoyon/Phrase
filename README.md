@@ -18,7 +18,7 @@
 the basic idea of which is a provision
 whereby any item may be caused at will to select immediately and automatically another. This is the
 essential feature of the memex. </a><br>
-　(その基本的な考え方は、ある項目から別の項目を、任意かつ即座に、そして自動的に呼び出せるようにする仕組みにあります。これこそがメメックスの本質的な特徴です)
+　(その基本的な考え方は、ある項目から別の項目を、任意かつ即座に、そして自動的に呼び出せるようにする仕組みにあります。これこそがメメックスの本質的な特徴です)<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/paperclip_maximizer.html">in a superintelligence whose top goal is the manufacturing of paperclips, with the consequence that it starts transforming first all of earth and then increasing portions of space into paperclip manufacturing facilities</a><br>
 　(「ペーパークリップを製造すること」を最優先目標とする超知能が誕生し、地球全体、さらには宇宙の広範囲をペーパークリップ製造施設へと作り変え始めてしまうといった事態を招きかねません)<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/security_incident.html">すべての証拠は、モデルが ExploitGym の解答を見つけることに過度に集中し、かなり狭いテスト目標を達成するために極端な手段を取ったことを示しています</a><br>
