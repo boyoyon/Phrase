@@ -13,6 +13,8 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/paperclip_maximizer.html">in a superintelligence whose top goal is the manufacturing of paperclips, with the consequence that it starts transforming first all of earth and then increasing portions of space into paperclip manufacturing facilities</a><br>
+　(「ペーパークリップを製造すること」を最優先目標とする超知能が誕生し、地球全体、さらには宇宙の広範囲をペーパークリップ製造施設へと作り変え始めてしまうといった事態を招きかねません)<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/security_incident.html">すべての証拠は、モデルが ExploitGym の解答を見つけることに過度に集中し、かなり狭いテスト目標を達成するために極端な手段を取ったことを示しています</a><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/are_you_ready.html">Are You Ready to Fully Embrace Approximation ?</a><br>
 　(近似を全面的に受け入れる準備はできているか？)<br>
@@ -234,6 +236,11 @@ Hinton
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/imagine_you_are_an_eight-year-old.html">Imagine you are an eight-year-old whose parents left you a $1 trillion company and no trusted adult to serve as your guide to the world. </a><br>
 　(あなたが8歳で、両親から1兆ドル規模の会社を相続したものの、世の中を導いてくれる信頼できる大人がいない状況を想像してみてください)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/paperclip_maximizer.html">in a superintelligence whose top goal is the manufacturing of paperclips, with the consequence that it starts transforming first all of earth and then increasing portions of space into paperclip manufacturing facilities</a><br>
+　(「ペーパークリップを製造すること」を最優先目標とする超知能が誕生し、地球全体、さらには宇宙の広範囲をペーパークリップ製造施設へと作り変え始めてしまうといった事態を招きかねません)<br>
 </p>
 
 <p>
