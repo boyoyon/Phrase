@@ -16,6 +16,8 @@
 ・<a href="https://boyoyon.github.io/Phrase/data/debug_it_now.html">
 Debug it now, not later.</a><br>
 　(デバッグは今すぐに)<br>
+・<a href="https://boyoyon.github.io/Phrase/data/yes_i_am_the_devil.html">Yes, I am the devil!</a><br>
+　(イエスだ、私が悪魔だよ!)<br>
 ---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/as_we_may_think.html">
 the basic idea of which is a provision
@@ -566,6 +568,11 @@ Horace Walpole
 </p>
 
 <h3 id="Y">Y</h3>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/yes_i_am_the_devil.html">Yes, I am the devil!</a><br>
+　(イエスだ、私が悪魔だよ!)<br>
+</p>
 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/company_it_keeps.html">You shall know a word by the company it keeps.</a><br>
