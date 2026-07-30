@@ -13,24 +13,14 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/ignore_the_problem.html">The one guaranteed wrong answer is to ignore the problem.</a><br>
+　(絶対に間違っている対応は、問題を無視することです)<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/debug_it_now.html">
 Debug it now, not later.</a><br>
 　(デバッグは今すぐに)<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/yes_i_am_the_devil.html">Yes, I am the devil!</a><br>
 　(イエスだ、私が悪魔だよ!)<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/as_we_may_think.html">
-the basic idea of which is a provision
-whereby any item may be caused at will to select immediately and automatically another. This is the
-essential feature of the memex. </a><br>
-　(その基本的な考え方は、ある項目から別の項目を、任意かつ即座に、そして自動的に呼び出せるようにする仕組みにあります。これこそがメメックスの本質的な特徴です)<br>
-・<a href="https://boyoyon.github.io/Phrase/data/paperclip_maximizer.html">in a superintelligence whose top goal is the manufacturing of paperclips, with the consequence that it starts transforming first all of earth and then increasing portions of space into paperclip manufacturing facilities</a><br>
-　(「ペーパークリップを製造すること」を最優先目標とする超知能が誕生し、地球全体、さらには宇宙の広範囲をペーパークリップ製造施設へと作り変え始めてしまうといった事態を招きかねません)<br>
-・<a href="https://boyoyon.github.io/Phrase/data/security_incident.html">すべての証拠は、モデルが ExploitGym の解答を見つけることに過度に集中し、かなり狭いテスト目標を達成するために極端な手段を取ったことを示しています</a><br>
-・<a href="https://boyoyon.github.io/Phrase/data/are_you_ready.html">Are You Ready to Fully Embrace Approximation ?</a><br>
-　(近似を全面的に受け入れる準備はできているか？)<br>
-・<a href="https://boyoyon.github.io/Phrase/data/inductive_leap.html">The inductive leap needed to deal with new situations seems to be possible only under certain biases for choosing one generalization of the situation over another.</a><br>
-　(新しい状況に対処するために必要な帰納的飛躍は、状況のある一般化を他の一般化よりも選択するための特定のバイアスがある場合にのみ可能となるように思われる)<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -157,6 +147,11 @@ Debug it now, not later.</a><br>
 </p>
 
 <p>
+● Dieses Buch enthält die uns geblichenen Aufzeichnungen jenes Mannes, welchen wir mit einem Ausdruck, den er selbst mehrmals gebrauchte, den «Steppenwolf» nannten. <br>
+　(本書は、私たちが――彼自身もしばしば用いていた言葉を借りれば「荒野の狼」と呼んでいた人物の遺した記録を収めたものである。)
+</p>
+
+<p>
 ● Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?<br>
 　(残りの人生を砂糖水を売って過ごす気か、それとも世界を変えるチャンスが欲しいか？)
 </p>
@@ -208,6 +203,11 @@ Debug it now, not later.</a><br>
 
 <h3 id="H">H</h3>
 
+<p>
+● He had a fixed conviction that at least one of them must lead into summer weather. <br>
+　(彼は、少なくとも一つは夏の天候に通じているはずだと固く信じていました)<br>
+　『The Door into Summer』Robert A. Heinlein
+</p>
 
 <h3 id="I">I</h3>
 
@@ -286,6 +286,11 @@ Hinton
 <p id="intelligence_is_compression">
 ● <a href="https://boyoyon.github.io/Phrase/data/intelligence_is_compression.html">Intelligence is compression</a><br>
 　(知性は圧縮である)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/truth_universally_acknowledged.html">It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.</a><br>
+　(独身で財産をもっている男性なら妻を欲しがっているに違いないというのが、一般に知られている真理である)<br>
 </p>
 
 <p>
@@ -382,6 +387,12 @@ Hinton
 </p>
 
 <h3 id="O">O</h3>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/ignore_the_problem.html">The one guaranteed wrong answer is to ignore the problem.</a><br>
+　(絶対に間違っている対応は、問題を無視することです)<br>
+</p>
+
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/Ogni_corpo_ombroso.html">Ogni corpo ombroso empie la circunstante aria d'infinite sue similitudini,</a><br>
 　(光と影の中のすべての物体は、周囲の空気を自身の無限のイメージで満たす。)
@@ -465,6 +476,18 @@ Joan Robinson
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/take_your_phone.html">Take your phone, you can take a picture with him!</a><br>
 　(彼(メッシ)と写真でも撮りにきたのか ?)
+</p>
+
+<p>
+● Then the face of Big Brother faded away again, and instead the three slogans of the Party stood out in bold capitals:<br>
+　WAR IS PEACE<br>
+　FREEDOM IS SLAVERY<br>
+　IGNORANCE IS STRENGTH<br>
+　(そしてビッグ・ブラザーの顔は再び消え去り、代わりに党の3つのスローガンが太字で浮かび上がった。<br>
+　戦争は平和である<br>
+　自由は奴隷である<br>
+　無知は力である)<br>
+　『1984』George Orwell (1949) ・・・ ディストピア感がすごい
 </p>
 
 <p id="there_are_hosts_of_dopes">
