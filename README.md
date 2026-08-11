@@ -13,13 +13,16 @@
 
 <p>
 ●更新項目<br>
-・<a href="https://boyoyon.github.io/Phrase/data/jacobian_conjecture_is_false.html">hello there the jacobian conjecture is false</a><br>
-　(こんにちは、ヤコビアン予想は偽です)<br>
-・<a href="https://boyoyon.github.io/Phrase/data/i_told_you_so.html">I told you so</a><br>
-　(そう言ったでしょう)<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/sketchpad.html">in the past, we have been writing letters to rather than conferring with our computers.</a><br>
-　(これまで、私たちはコンピュータと対話するのではなく、むしろ手紙を書くように接してきました。)<br>
+・<a href="https://boyoyon.github.io/Phrase/data/the_most_decisive_mark_of_the_prosperity.html">The most decisive mark of the prosperity of any country is the increase of the number of its inhabitants.</a><br>
+　(いかなる国であれ、その繁栄を示す最も決定的な指標は、住民数の増加である)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/legitimacy_of_capitalism.html">After all, the legitimacy of capitalism depends on its capacity to turn the individual search for profits into benefits for everybody.</a><br> 
+　(結局のところ、資本主義の正当性は、個人の利益追求をすべての人々の利益へと転換する能力にかかっています)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/its_baaack.html">It’s Baaack!</a><br>
+　(復活だぁっ！)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/something_incomprehensible.html">ラグランジュ関数というわけのわからないものが出てきて、それがなぜか T-U　というものであり、そこからさらにハミルトニアンという、やっぱり良くわからないものを作るというわけで、最初から最後までわからない人がほとんどというのが実情である。</a><br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -43,6 +46,11 @@
 <p id="instrumental_convergence">
 ● <a href="https://boyoyon.github.io/Phrase/data/instrumental_convergence.html">according to what we may term the “instrumental convergence” thesis, there are some instrumental goals likely to be pursued by almost any intelligent agent,</a><br>
 　(私たちが「道具的収束」テーゼと呼ぶものによれば、ほぼすべての知的エージェントが追求するであろう道具的目標がいくつか存在する。)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/legitimacy_of_capitalism.html">After all, the legitimacy of capitalism depends on its capacity to turn the individual search for profits into benefits for everybody.</a><br> 
+　(結局のところ、資本主義の正当性は、個人の利益追求をすべての人々の利益へと転換する能力にかかっています)
 </p>
 
 <p>
@@ -324,6 +332,11 @@ Hinton
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/its_baaack.html">It’s Baaack!</a><br>
+　(復活だぁっ！)<br>
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/discovery_by_dreaming.html">its measurable value may instead lie in recombining knowledge across experiences that have not yet co-occurred, exactly as a dreaming brain does.</a><br>
 　(その真の価値は、夢を見ている脳が行うように、まだ同時に起こっていない経験を超えて知識を組み換えることにあるのかもしれません)
 </p>
@@ -400,6 +413,11 @@ Hinton
 　(月は最古のテレビ)
 </p>
 
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/the_most_decisive_mark_of_the_prosperity.html">The most decisive mark of the prosperity of any country is the increase of the number of its inhabitants.</a><br>
+　(いかなる国であれ、その繁栄を示す最も決定的な指標は、住民数の増加である)
+</p>
+
 <h3 id="N">N</h3>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/nature_controls_everything.html">Nature controls everything, even in atomic scale, as Buddha recognized a long long time ago.<a/><br>
@@ -427,6 +445,12 @@ Hinton
 <p>
 ● Period Three Implies Chaos<br>
 （周期3はカオスを意味する）
+</p>
+
+<p>
+● The pooling operation used in convolutional neural networks is a big mistake and the fact that it works so well is a disaster.<br>
+　(畳み込みニューラルネットワークで使用されるプーリング演算は大きな間違いであり、それが非常にうまく機能するという事実は大惨事です)<br>
+Hinton は pooling が大嫌い。
 </p>
 
 <p id="Power">
@@ -679,6 +703,8 @@ Horace Walpole
 
 <h3 id="Ra">ら</h3>
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/something_incomprehensible.html">
+ラグランジュ関数というわけのわからないものが出てきて、それがなぜか T-U　というものであり、そこからさらにハミルトニアンという、やっぱり良くわからないものを作るというわけで、最初から最後までわからない人がほとんどというのが実情である。</a>
 </p>
 
 <h3 id="Wa">わ</h3>
