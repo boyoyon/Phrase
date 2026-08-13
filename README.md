@@ -14,10 +14,20 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/history_isnt_a_smooth_progression.html">History isn't a smooth progression but a series of dramatic leaps forward.</a></br>
+　(歴史は滑らかな進歩ではなく、劇的な飛躍の連続である)<br>
+<br>
+・Each great surge of development goes through an S-curve trajectory of about half a century</a><br>
+　(あらゆる大きな発展の波は、約半世紀のS字曲線を描く)<br>
+<br>
+・The current new revolution coexists with the previous one and will eventually coexist with the next.</a><br>
+　(現在の新たな革命は、以前の革命と共存し、いずれは次の革命とも共存するだろう)<br>
+
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/i_have_never_known_much.html">
 I have never known much good done by those who affected to trade for the public good. </a><br>
 　(公益のために商売をしていると称する人々によって、大きな善がなされた例を私は知らない)<br>
----<br>
+<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/the_most_decisive_mark_of_the_prosperity.html">The most decisive mark of the prosperity of any country is the increase of the number of its inhabitants.</a><br>
 　(いかなる国であれ、その繁栄を示す最も決定的な指標は、住民数の増加である)<br>
 <br>
@@ -145,6 +155,11 @@ essential feature of the memex. </a><br>
 　(ChatGPTはWEBのぼやけたJPEG)
 </p>
 
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/history_isnt_a_smooth_progression.html">The current new revolution coexists with the previous one and will eventually coexist with the next.</a><br>
+　(現在の新たな革命は、以前の革命と共存し、いずれは次の革命とも共存するだろう)
+</p>
+
 <h3 id="D">D</h3>
 <p id="Entzauberung">
 ● Das aber bedeutet: die Entzauberung der Welt.<br>
@@ -192,6 +207,11 @@ d’extraordinaire en moi. <br>
 </p>
 イギリスの文豪、サミュエル・ジョンソン(Samuel Johnso)の言葉
 
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/history_isnt_a_smooth_progression.html">Each great surge of development goes through an S-curve trajectory of about half a century</a><br>
+　(あらゆる大きな発展の波は、約半世紀のS字曲線を描く)
+</p>
+
 <h3 id="F">F</h3>
 <p>
 ● For myself I am an optimist—it does not seem to be much use being anything else.<br>
@@ -235,6 +255,11 @@ d’extraordinaire en moi. <br>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/jacobian_conjecture_is_false.html">hello there the jacobian conjecture is false</a><br>
 　(こんにちは、ヤコビアン予想は偽です)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/history_isnt_a_smooth_progression.html">History isn't a smooth progression but a series of dramatic leaps forward.</a></br>
+　(歴史は滑らかな進歩ではなく、劇的な飛躍の連続である)
 </p>
 
 <h3 id="I">I</h3>
