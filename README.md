@@ -14,18 +14,17 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/the_only_way_in_which we_can_bring_our_creative_resources.html">
+the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task,</a><br>
+　(私たちが創造的な能力を最大限に発揮できる唯一の方法は、課題の性質を誤認することである)<br>
+
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/half_the_job.html">
 Half the job involves finding out what the new capabilities can do for people.</a><br>
 　(仕事の半分は、新しい機能が人々に何をもたらすのかを見極めることです)<br>
 <br>
 ・<a href="https://boyoyon.github.io/Phrase/data/their_dreams.html">
 彼らの夢は、地球全体をワイヤレスで覆いつくすことによってリアルタイムでインタラクティブなネットワークを形成し、民主主義社会を発展させていこうという、高邁なものだった。</a><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/such_messages.html">One does not receive such messages often in one’s lifetime.</a><br>
-　(人生において、これほど特別なメッセージを受け取ることは、そうあることではありません)<br>
-<br>
-・<a href="https://boyoyon.github.io/Phrase/data/uber_die_hypothesen.html">Nun scheinen aber die empirischen Begriffe, in welchen die räumlichen Massbestimmungen gegründet sind, der Begriff des festen Körpers und des Lichtstrahls, im Unendlichkleinen ihre Gültigkeit zu verlieren</a><br>
-　(ところが、空間測定の基礎となる経験的概念、すなわち剛体や光線といった概念は、微小な領域においてはその妥当性を失うように思われる)<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -472,6 +471,11 @@ Hinton
 <h3 id="O">O</h3>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/Ogni_corpo_ombroso.html">Ogni corpo ombroso empie la circunstante aria d'infinite sue similitudini,</a><br>
+　(光と影の中のすべての物体は、周囲の空気を自身の無限のイメージで満たす。)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/such_messages.html">One does not receive such messages often in one’s lifetime.</a><br>
 　(人生において、これほど特別なメッセージを受け取ることは、そうあることではありません)
 </p>
@@ -482,8 +486,9 @@ Hinton
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/Ogni_corpo_ombroso.html">Ogni corpo ombroso empie la circunstante aria d'infinite sue similitudini,</a><br>
-　(光と影の中のすべての物体は、周囲の空気を自身の無限のイメージで満たす。)
+● <a href="https://boyoyon.github.io/Phrase/data/the_only_way_in_which we_can_bring_our_creative_resources.html">
+the only way in which we can bring our creative resources fully into play is by misjudging the nature of the task,</a><br>
+　(私たちが創造的な能力を最大限に発揮できる唯一の方法は、課題の性質を誤認することである)
 </p>
 
 <h3 id="P">P</h3>
