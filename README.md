@@ -13,6 +13,16 @@
 
 <p>
 ●更新項目<br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
+Since the mathematicians have invaded
+the theory of relativity, I do not understand it myself any
+more.</a><br>
+　(数学者たちが相対性理論に介入して以来、私自身ももはや理解できなくなってしまった)<br>
+・<a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
+Every boy in the streets of Göttingen understands more about four-dimensional geometry than Einstein Yet, in spite of that, Einstein did the work, and not the mathematicians</a><br>
+　(ゲッティンゲンの街角にいる少年なら誰でも、アインシュタインよりも四次元幾何学についてよく理解している。それにもかかわらず、実際にその業績を成し遂げたのは数学者ではなく、アインシュタインだった)<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/era_of_proof_abundance.html">In short, we will transition from an era of proof scarcity to an era of proof abundance.</a><br>
 　(要するに、私たちは「証明が希少な時代」から「証明が過剰な時代」へと移行しようとしているのです)<br>
 <br>
@@ -25,10 +35,6 @@ To few men in the world has such an experience been vouchsafed.<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/inertial_system_is_a_weak_poin.html">
 It may be remarked here that the inertial system is a weak point of the Galilean-Newtonian mechanics. For there is presupposed a mysterious property of physical space, conditioning the kind of coordination-systems for which the law of inertia and the Newtonian law of motion hold good.</a><br>
 　(ここで指摘しておきたいのは、慣性系こそがガリレイ・ニュートン力学の弱点であるという点だ。なぜなら、慣性の法則やニュートンの運動法則が成立するような座標系のあり方を規定する、物理的空間の何らかの不可解な性質が、そこでは前提とされているからである。)<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/ease_of_learning.html">
-The Macintosh interface is very much like a pidgin. First and foremost, the Macintosh interface is easy to learn. Ease of learning was the driving force behind the development of the Macintosh interface</a><br>
-　(Macintoshのインターフェースは、まさに「混合語言語」のようなものなのです。 何よりもまず、Macintoshのインターフェースは習得が容易です。この「習得のしやすさ」こそが、Macintoshのインターフェース開発を推進した原動力でした)<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -200,6 +206,12 @@ d’extraordinaire en moi. <br>
 　(やがて、陰鬱な一日と暗澹たる明日への予感に押しつぶされそうになりながら、私は機械的な動作で、マドレーヌを浸してふやかしておいた紅茶をスプーンですくい、唇に運んだ。しかし、その一口が、ケーキの欠片と混じり合って私の口蓋に触れたまさにその瞬間、私ははっと身を震わせ、自分の中で起きている並外れた出来事に意識を向けた。)<br>
 　『<a href="https://ebooks-bnr.com/ebooks/pdf4/proust_a_la_recherche_du_temps_perdu_1_swann.pdf">失われた時を求めて</a>』マルセル・プルースト<br>
 　　プルースト効果と呼ばれるシーン
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
+Every boy in the streets of Göttingen understands more about four-dimensional geometry than Einstein Yet, in spite of that, Einstein did the work, and not the mathematicians<
+　(ゲッティンゲンの街角にいる少年なら誰でも、アインシュタインよりも四次元幾何学についてよく理解している。それにもかかわらず、実際にその業績を成し遂げたのは数学者ではなく、アインシュタインだった)
 </p>
 
 <p>
@@ -582,6 +594,14 @@ Joan Robinson
 　(もし本書の記述に1ページでもついていけないところがあれば、ただちに読書を中止せよ。あなたには数学の才能がない)
 </p>
 ジャン・デュドネ(フランスの数学者・ブルバキのメンバー)のこの有名な一節は、彼の著書 『現代数学の基礎（全9巻）』（原題：Éléments d'analyse）第1巻の序文（Préface）に記された。
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
+Since the mathematicians have invaded
+the theory of relativity, I do not understand it myself any
+more.</a><br>
+　(数学者たちが相対性理論に介入して以来、私自身ももはや理解できなくなってしまった)
+</p>
 
 <p>
 ● Stay hungry, stay foolish.<br>
