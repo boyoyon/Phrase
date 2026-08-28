@@ -13,19 +13,13 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/move_over_mathematicians.html">
+Move over, mathematicians, here comes AlphaProof.</a></br>
+　(数学者達よ、道を譲れ！AlphaProofの登場だ)<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/something_big_Is_happening.html">
 Something Big Is Happening ･･･ </a></br>
-　(何か大きなことが起こっている ･･･ )<br>
-<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
-Since the mathematicians have invaded
-the theory of relativity, I do not understand it myself any
-more.</a><br>
-　(数学者たちが相対性理論に介入して以来、私自身ももはや理解できなくなってしまった)<br>
-・<a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
-Every boy in the streets of Göttingen understands more about four-dimensional geometry than Einstein Yet, in spite of that, Einstein did the work, and not the mathematicians</a><br>
-　(ゲッティンゲンの街角にいる少年なら誰でも、アインシュタインよりも四次元幾何学についてよく理解している。それにもかかわらず、実際にその業績を成し遂げたのは数学者ではなく、アインシュタインだった)<br>
+　(何か大変なことが起こっている ･･･ )<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -482,6 +476,12 @@ The Macintosh interface is very much like a pidgin. First and foremost, the Maci
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/the_most_decisive_mark_of_the_prosperity.html">The most decisive mark of the prosperity of any country is the increase of the number of its inhabitants.</a><br>
 　(いかなる国であれ、その繁栄を示す最も決定的な指標は、住民数の増加である)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/move_over_mathematicians.html">
+Move over, mathematicians, here comes AlphaProof.</a></br>
+　(数学者達よ、道を譲れ！AlphaProofの登場だ)<br>
 </p>
 
 <h3 id="N">N</h3>
