@@ -13,13 +13,16 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/it_has_been_40_years.html">it has been 40 years since the discovery of these giant, half-empty structures, produced within nearly every cell, of every animals, on the planet.</a></br>
+　(その存在の謎めいた性質ゆえに科学の教科書からしばしば省かれてきましたが、それらが発見されてからすでに40年が経過しています。)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/framing_ intuition.html">
+framing intuition evolutionarily as a pathfinding mechanism emerging from the brain’s optimization of its relationship with the environment. </a><br>
+　(直感を、脳が環境との関係を最適化する過程で生じる「経路探索のメカニズム」として進化論的に捉える)<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/move_over_mathematicians.html">
 Move over, mathematicians, here comes AlphaProof.</a></br>
 　(数学者達よ、道を譲れ！AlphaProofの登場だ)<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/something_big_Is_happening.html">
-Something Big Is Happening ･･･ </a></br>
-　(何か大変なことが起こっている ･･･ )<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -227,6 +230,12 @@ Every boy in the streets of Göttingen understands more about four-dimensional g
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/framing_ intuition.html">
+framing intuition evolutionarily as a pathfinding mechanism emerging from the brain’s optimization of its relationship with the environment. </a><br>
+　(直感を、脳が環境との関係を最適化する過程で生じる「経路探索のメカニズム」として進化論的に捉える)
+</p>
+
+<p>
 ● The future cannot be predicted, but futures can be invented.<br>
 　(未来を予測することはできない、しかし未来を発明することはできる)<br>
 　『Inventing the Future』Dennis Gabor (1963)<br>
@@ -352,6 +361,23 @@ To few men in the world has such an experience been vouchsafed.<br>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/inductive_leap.html">The inductive leap needed to deal with new situations seems to be possible only under certain biases for choosing one generalization of the situation over another.</a><br>
 　(新しい状況に対処するために必要な帰納的飛躍は、状況のある一般化を他の一般化よりも選択するための特定のバイアスがある場合にのみ可能となるように思われる)
+</p>
+
+<p>
+● It from bit (John Archibald Wheeler/1980)<br>
+ 　(宇宙の根源は『情報』である)<br>
+　　　↓<br>
+　 It from qubit (ホログラフィック原理)<br>
+　 (すべては量子情報から生じる)<br>
+　　　↓<br>
+　　時空そのものが量子もつれという情報ネットワークによって織り成されているのではないか？<br>
+　　Emergent Spacetime (時空の創発)
+
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/it_has_been_40_years.html">it has been 40 years since the discovery of these giant, half-empty structures, produced within nearly every cell, of every animals, on the planet.</a></br>
+　(その存在の謎めいた性質ゆえに科学の教科書からしばしば省かれてきましたが、それらが発見されてからすでに40年が経過しています。)
 </p>
 
 <p>
