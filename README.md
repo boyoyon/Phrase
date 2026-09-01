@@ -13,16 +13,15 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/wait_for_me.html">
+彼女はウェイト・フォー・ミー<br>
+<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/it_has_been_40_years.html">it has been 40 years since the discovery of these giant, half-empty structures, produced within nearly every cell, of every animals, on the planet.</a></br>
 　(その存在の謎めいた性質ゆえに科学の教科書からしばしば省かれてきましたが、それらが発見されてからすでに40年が経過しています。)<br>
 <br>
 ・<a href="https://boyoyon.github.io/Phrase/data/framing_ intuition.html">
 framing intuition evolutionarily as a pathfinding mechanism emerging from the brain’s optimization of its relationship with the environment. </a><br>
 　(直感を、脳が環境との関係を最適化する過程で生じる「経路探索のメカニズム」として進化論的に捉える)<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/move_over_mathematicians.html">
-Move over, mathematicians, here comes AlphaProof.</a></br>
-　(数学者達よ、道を譲れ！AlphaProofの登場だ)<br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -783,6 +782,11 @@ Horace Walpole
 </p>
 
 <h3 id="Ka">か</h3>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/wait_for_me.html">
+彼女はウェイト・フォー・ミー<br>
+</p>
 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/their_dreams.html">
