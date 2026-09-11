@@ -14,6 +14,32 @@
 <p>
 ●更新項目<br>
 <br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/runtime_error.html">圏論の破綻は、実行時エラーとして可視化される</a><br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/heart_of_a_pig.html">
+But Snow White was not dead. What Minsky and Papert had shown the world as proof was not the heart of the princess; it was the heart of a pig. </a><br>
+　(しかし、白雪姫は死んでいなかった。ミンスキーとパパートが世界に「証​​拠」として提示したのは、王女の心臓ではなく、豚の心臓だったのである。)<br>
+<br>
+・ Wenn meine Relativitätstheorie recht behält, wird Deutschland sagen, ich sei ein Deutscher, und Frankreich, ich sei ein Weltbürger. Wird sie aber widerlegt, so wird Frankreich sagen, ich sei ein Deutscher, und Deutschland, ich sei ein Jude.
+<br>
+(もし私の相対性理論が成功すれば、ドイツは私をドイツ人だと主張し、フランスは私を世界市民だと宣言するだろう。もし私の理論が間違っていると証明されれば、フランスは私をドイツ人だと言い、ドイツは私をユダヤ人だと宣言するだろう)
+<br><br>
+1922年4月6日にアインシュタインがパリのソルボンヌ大学（フランス哲学会）に宛てたメッセージ、あるいはそこでのスピーチが初出とされている。<br>
+<br>
+・ Do your own research<br>
+　(自分で調査しなさい)<br>
+<br>
+　陰謀論者のモットー（標語）と言われる。<br>
+　一見すると「自分で調べる」という行為は知的で推奨されるべきことのように思えるが、政府、大手メディア、科学者、医療機関などの「公式な発表」を「隠蔽や洗脳だ」として信用しない。<br>
+　ここで言う「リサーチ」は、学術的な研究や客観的なデータ分析ではなく、多くの場合「ネット（SNS、YouTube、陰謀論ブログなど）で自分にとって都合の良い情報を検索すること」を指す。<br>
+<br>
+・ <a href="https://boyoyon.github.io/Phrase/data/since_the_mathematicians_have_invaded.html">
+Since the mathematicians have invaded
+the theory of relativity, I do not understand it myself any
+more.</a>　(更新)<br>
+　(数学者たちが相対性理論に介入して以来、私自身ももはや理解できなくなってしまった)<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/not_light.html">
 I therefore take the liberty of proposing for this hypothetical new atom, which is not light but plays an essential part in every process of radiation, the name photon.</a><br>
 　(そこで、光そのものではないものの、あらゆる放射の過程において不可欠な役割を果たすこの仮説上の新しい原子に対して、「光子（フォトン）」という名称を提案させていただきたい)<br>
@@ -26,9 +52,6 @@ I therefore take the liberty of proposing for this hypothetical new atom, which 
 　(この50年もの間、あれこれと思索を巡らせてきたが、『光量子とは何か』という問いの答えには、いささかも近づけなかった。確かに、今日では誰もがその答えを知っているつもりでいるようだが、それは誤りである)<br>
 <br>
 　謎が解明されていないのに、誰も謎と思わなくなってしまった･･･<br>
-<br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/experiencing_context_switching_fatigue.html">コンテクスト疲れしました</a><br>
 <br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -772,6 +795,14 @@ Horace Walpole
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/we_have_something.html">We have something for everyone</a><br>
 　(どんな客にも自分にぴったりの出し物がある)
+</p>
+
+<p>
+● Wenn meine Relativitätstheorie recht behält, wird Deutschland sagen, ich sei ein Deutscher, und Frankreich, ich sei ein Weltbürger. Wird sie aber widerlegt, so wird Frankreich sagen, ich sei ein Deutscher, und Deutschland, ich sei ein Jude.
+<br>
+(もし私の相対性理論が成功すれば、ドイツは私をドイツ人だと主張し、フランスは私を世界市民だと宣言するだろう。もし私の理論が間違っていると証明されれば、フランスは私をドイツ人だと言い、ドイツは私をユダヤ人だと宣言するだろう)
+<br><br>
+1922年4月6日にアインシュタインがパリのソルボンヌ大学（フランス哲学会）に宛てたメッセージ、あるいはそこでのスピーチが初出とされている。
 </p>
 
 <p>
