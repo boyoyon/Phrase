@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Rongcan Pei ら</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Rongcan Pei ら</center></h1>
+
+　(自らを反面教師にて自己蒸留するという話なのか?　冒頭しか読んでいない･･･)<br>
+
+<h3><a href="https://arxiv.org/html/2609.11699v1">ネガティブな自己蒸留： 欠点を避けることで推論を学ぶ</a></h3>
+<p>
+
+On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information such as ground-truth solutions. However, recent findings indicate that OPSD can severely degrade the performance of LLMs on complex reasoning tasks: <strong>By forcing the student to imitate an artificially confident reasoning trace conditioned on privileged information, OPSD inadvertently suppresses expressions of uncertainty and penalizes the exploratory, self-corrective behaviors required to solve challenging problems. </strong>To address this, we introduce Negative Self-Distillation (NSD), a new framework that optimizes LLMs by diverging from flawed reasoning rather than imitating privileged solutions. Instead of relying on ground-truth answers or external supervision, <strong>NSD uses the model itself to generate a question-specific negative condition (e.g., acting as a “careless reasoner”) and pushes the student’s distribution away from this self-generated negative teacher.</strong> Naively applying unlearning objectives to achieve this divergence is problematic, as flawed reasoning tokens are confounded with basic linguistic tokens; indiscriminately penalizing both risks catastrophically degrading the model’s foundational language capabilities. We resolve this by designing a dynamic gating mechanism that automatically identifies and isolates reasoning-critical tokens, ensuring gradient updates target only behavioral flaws while preserving the model’s linguistic priors. Empirically, NSD consistently outperforms OPSD and other label-free, self-bootstrapping reinforcement learning (RL) baselines. Across seven mathematical reasoning benchmarks (AIME 24/25/26, HMMT, AMC, OlympiadBench, and MATH), NSD achieves average gains of 2.3%, 7.5%, and 6.0% for 1.7B, 4B, and 8B models, respectively. Further analyses show that NSD achieves higher training efficiency while preserving the self-correction behaviors crucial for complex reasoning.
+
+<br><span style="color:blue;">
+オンポリシー自己蒸留（OPSD）は、大規模言語モデル（LLM）の自己改善のための一般的なパラダイムとして登場し、正解などの特権情報を活用することで、モデルが自ら教師として機能することを可能にしています。しかし、最近の研究結果によると、OPSDは複雑な推論タスクにおいてLLMのパフォーマンスを著しく低下させる可能性があることが示されています。<strong>特権情報に基づいて人工的に自信のある推論の軌跡を模倣するように学習者に強制することで、OPSDは意図せず不確実性の表現を抑制し、困難な問題を解決するために必要な探索的で自己修正的な行動を阻害してしまうのです。</strong>この問題を解決するために、特権的な解決策を模倣するのではなく、欠陥のある推論から逸脱することでLLMを最適化する新しいフレームワークである負の自己蒸留（NSD）を提案します。 <strong>NSDは、正解や外部の監視に頼るのではなく、モデル自体を使用して質問固有の負の条件（例えば、「不注意な推論者」として振る舞う）を生成し、生徒の分布をこの自己生成された負の教師から遠ざけます。</strong>この乖離を実現するためにアンラーニング目標を単純に適用することは問題があります。なぜなら、欠陥のある推論トークンが基本的な言語トークンと混同され、両方を無差別に罰すると、モデルの基本的な言語機能が壊滅的に低下するリスクがあるからです。私たちは、推論に重要なトークンを自動的に識別して分離する動的なゲーティングメカニズムを設計することでこれを解決し、勾配更新が行動上の欠陥のみを対象とし、モデルの言語的事前情報を維持するようにします。経験的に、NSDはOPDSやその他のラベルフリーの自己ブートストラップ強化学習（RL）ベースラインを一貫して上回ります。 7つの数学的推論ベンチマーク（AIME 24/25/26、HMMT、AMC、OlympiadBench、MATH）において、NSDは1.7B、4B、8Bモデルでそれぞれ平均2.3%、7.5%、6.0%の性能向上を実現しました。さらに分析した結果、NSDは複雑な推論に不可欠な自己修正機能を維持しながら、より高い学習効率を達成していることが分かりました。
+</span>
+ 
+</p>
+    </body>
+</html>
