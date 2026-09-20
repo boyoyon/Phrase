@@ -14,6 +14,17 @@
 <p>
 ●更新項目<br>
 <br>
+・<a href="https://boyoyon.github.io/Phrase/data/all_hell_broke_loose.html">
+..and then, all hell broke loose</a><br>
+　(… そして、地獄が解き放たれた / ･･･ それから、てんやわんやの大騒ぎになった)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/easy_to_catch_a_liar.html">
+Easy to Catch a Liar, Hard to Clear an Honest One</a><br>
+　(嘘つきを見抜くのは容易だが、正直者の潔白を証明するのは難しい)<br>
+　(AIがウソをついているのを見抜くのは(比較的)簡単だが、AIが正直者であることを証明するのはむずかしい (正直者のフリをしているだけかもしれないので・・・)<br>
+<br>
+---<br>
+<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/basic_level.html">
 basic level, an intermediate noise level at which concepts are recognized with the least cognitive effort.</a><br>
 　(拡散モデルには基本レベル、つまり概念が最小限の認知的労力で認識される中間的なノイズレベルが存在する)<br>
@@ -65,6 +76,12 @@ all quality is structure</a><br>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/was_sind_lichtquanten.html">Alle diese fünfzig Jahre angestrengten Nachdenkens haben mich der Antwort auf die Frage ‘Was sind Lichtquanten?’ nicht näher gebracht. Heute glaubt zwar jeder Lump, er wisse es, aber er täuscht sich.</a><br>
 　(この50年もの間、あれこれと思索を巡らせてきたが、『光量子とは何か』という問いの答えには、いささかも近づけなかった。確かに、今日では誰もがその答えを知っているつもりでいるようだが、それは誤りである)<br>
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/all_hell_broke_loose.html">
+..and then, all hell broke loose</a><br>
+　(… そして、地獄が解き放たれた / ･･･ それから、てんやわんやの大騒ぎになった)
 </p>
 
 <p>
@@ -217,6 +234,13 @@ Debug it now, not later.</a><br>
 </p>
 
 <h3 id="E">E</h3>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/easy_to_catch_a_liar.html">
+Easy to Catch a Liar, Hard to Clear an Honest One</a><br>
+　(嘘つきを見抜くのは容易だが、正直者の潔白を証明するのは難しい)<br>
+　(AIがウソをついているのを見抜くのは(比較的)簡単だが、AIが正直者であることを証明するのはむずかしい (正直者のフリをしているだけかもしれないので・・・)
+</p>
 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/if_an_agent.html">EoE: Era of Experience</a><br>
@@ -883,6 +907,16 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 </p>
 
 <h3 id="Sa">さ</h3>
+
+<p>
+● 子非魚、安知魚之樂<br>
+　　You are not a fish; how do you know the joy of fish?<br>
+　　子（し）魚に非（あら）ず、安（いず）くんぞ魚の楽（たの）しみを知（し）らんや<br>
+<br>
+荘子：「魚が気持ちよさそうに泳いでいる。これぞ魚の楽しみ（楽）だ」<br>
+恵子：「<strong>あなた（子）は魚ではない。どうして魚の楽しみがわかるのか？</strong>」<br>
+荘子：「あなたは私ではない。どうして私が魚の楽しみを知らないとわかるのか？」<br>
+</p>
 
 <p>
 ・<a href="https://boyoyon.github.io/Phrase/data/security_incident.html">すべての証拠は、モデルが ExploitGym の解答を見つけることに過度に集中し、かなり狭いテスト目標を達成するために極端な手段を取ったことを示しています</a><br>
