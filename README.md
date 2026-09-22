@@ -13,19 +13,17 @@
 
 <p>
 ●更新項目<br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/hedonistic_learning_system.html">
+ This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a “hedonistic” learning system, or, as we would say now, the idea of reinforcement learning.</a><br>
+　(そのアイデアとは、何かを「欲し」、環境から送られてくる特定の信号を最大化するように自身の行動を適応させる学習システム、という単純なものでした。これこそが「快​​楽主義的（hedonistic）」な学習システムの概念であり、現在私たちが呼ぶところの「強化学習」の概念だったのです。)<br>
 <br>
+「強化学習」 より 「快楽主義的学習」 の方が親しみやすかったかも ・・・
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/died_due_to_a_lack_of_natural_stressors.html">trees died due to a lack of natural stressors like wind</a><br>
 　(風などの自然なストレス要因が欠如していたために樹木が枯死した)<br>
 <br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/all_hell_broke_loose.html">
-...and then, all hell broke loose</a><br>
-　(… そして、地獄が解き放たれた / ･･･ それから、てんやわんやの大騒ぎになった)<br>
-<br>
-・<a href="https://boyoyon.github.io/Phrase/data/easy_to_catch_a_liar.html">
-Easy to Catch a Liar, Hard to Clear an Honest One</a><br>
-　(嘘つきを見抜くのは容易だが、正直者の潔白を証明するのは難しい)<br>
-　(AIがウソをついているのを見抜くのは(比較的)簡単だが、AIが正直者であることを証明するのはむずかしい (正直者のフリをしているだけかもしれないので・・・)<br>
 <br>
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
 
@@ -177,6 +175,13 @@ By forcing the student to imitate an artificially confident reasoning trace cond
 <p id="ChatGPT_is_a_blurry">
 ● <a href="https://boyoyon.github.io/Phrase/data/chatGPT_is_a_blurry.html">ChatGPT Is a Blurry JPEG of the Web</a><br>
 　(ChatGPTはWEBのぼやけたJPEG)
+</p>
+
+<p>
+● Colorless green ideas sleep furiously.<br>
+　(無色の緑の考えが猛烈に眠る)<br>
+　Noam Chomsky の 1955年の論文 『Logical Structure of Linguistic Theory』 に出てくる文章<br>
+　文法的 (syntax) に正しいことと、意味が通じる (semantics) こととは完全に独立していることを説明するために使われた。 
 </p>
 
 <p>
@@ -747,6 +752,12 @@ Something Big Is Happening ･･･ </a></br>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/this_preface.html">This preface is a preface, which means that no one will read it.</a> <br>
 　(この序文は序文であり、つまり誰も読むことはない)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/hedonistic_learning_system.html">
+ This was simply the idea of a learning system that wants something, that adapts its behavior in order to maximize a special signal from its environment. This was the idea of a “hedonistic” learning system, or, as we would say now, the idea of reinforcement learning.</a><br>
+　(そのアイデアとは、何かを「欲し」、環境から送られてくる特定の信号を最大化するように自身の行動を適応させる学習システム、という単純なものでした。これこそが「快​​楽主義的（hedonistic）」な学習システムの概念であり、現在私たちが呼ぶところの「強化学習」の概念だったのです。)
 </p>
 
 <p id="ThisWorld">
