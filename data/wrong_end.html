@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Vincent Karpf ら</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Vincent Karpf ら</center></h1>
+<h3><a href="https://arxiv.org/html/2609.16245v1">『メタ認知による方向付け：科学的判断の構造を学ぶ』</a></h3>
+<p>
+The ease of training AI on a task scales with how verifiable the task is, and scientific hypotheses sit at the wrong end of this asymmetry
+
+<br><span style="color:blue;">
+あるタスクを AI に学習させることの容易さは、そのタスクがどの程度検証可能かということに比例するが、科学的仮説はこの非対称性において「望ましくない側」に位置している。
+</span>
+</p>
+
+<br>
+
+(AIモードによる解説)
+<p>
+この一節は、「<strong><span style="color:magenta;">AIは『正解の判定が簡単なゲームや数学』なら超高速でマスターできるが、予測が正しいかどうかを確かめるために現実世界での泥臭い実験が必要となる『科学の未開拓分野（仮説の提示）』においては、その仕組み上、学習を効率よく進めるのが非常に難しい</span></strong>」という現代AIの構造的な限界（あるいは課題）を指摘しています。
+</p>
+
+<br>
+
+(論文のつづき)
+<p>
+Scientists do not reason in one continuous mode. They explore when evidence is weak, proceed methodically when a working framework holds, and challenge assumptions when results cease to make sense. They decide which weak signal is worth following before certainty exists. Such shifts in reasoning mode may be central to scientific discovery, yet the conditions under which they arise remain poorly recorded. 
+
+<br><span style="color:blue;">
+科学者は単一の思考様式だけで推論を行うわけではありません。証拠が不十分なときは探索を行い、有効な枠組みがあるときは体系的に進め、結果の整合性が取れなくなったときは前提を疑います。彼らは、確実性が得られる前に、どの「微弱なシグナル」を追うべきかを判断します。こうした思考様式の切り替えは科学的発見の核心にある可能性がありますが、それらが生じる条件については、これまで十分に記録されてきませんでした。
+</span>
+</p>
+
+<p>
+Current text-trained language models largely inherit the products of science without inheriting the process that produced them: a paper records the path ultimately taken, not the competing hypotheses, the reversals, or the moments of doubt that produced it.
+
+<br><span style="color:blue;">
+現在、テキストデータで学習された言語モデルは、科学の成果は継承していても、それを生み出したプロセスまでは継承していません。論文に記録されるのは最終的にたどった道筋であり、競合する仮説や方針転換、あるいは研究の過程で生じた疑念といった要素は記録されないからです。
+</span>
+</p>
+
+<p>
+ Consequently, a model trained primarily on published text learns how science is written after uncertainty has been resolved, rather than how science is done while the answer remains unknown.
+
+<br><span style="color:blue;">
+その結果、主に公開されたテキストで学習したモデルは、答えが未知の段階で科学がどのように行われるかではなく、不確実性が解消された後に科学がどのように記述されるかを学習することになります。
+</span>
+</p>
+
+<p>・・・</p>
+
+<p>
+We derive the directions from a proprietary dataset of process-level scientist interventions recorded during real long-horizon research, each paired with a counterfactual that holds the scientific context fixed and changes only the cognitive stance. 
+
+<br><span style="color:blue;">
+我々は、実際の長期にわたる研究プロセスにおいて記録された、科学者による「プロセスレベルの介入」に関する独自データセットから、これらの方向性を導き出しました。このデータセットの各事例は、科学的コンテキストを固定したまま認知スタンスのみを変化させた「反事実的（counterfactual）」な事例とペアになっています。
+</span>
+</p>
+
+<p>
+These pairs make a new form of control possible. We introduce Metacognitive Steering, a closed-loop controller that infers the model’s current reasoning state from its own residual stream and applies the direction that state calls for as work moves between exploration, convergence, and scrutiny. 
+
+<br><span style="color:blue;">
+これらを組み合わせることで、新たな形態の制御が可能になります。本研究では「メタ認知的ステアリング（Metacognitive Steering）」を提案します。これは、モデル自身の「残差ストリーム（residual stream）」から現在の推論状態を推定し、探索・収束・精査といった処理の推移に応じて、その状態が求める方向へと制御を適用するクローズドループ・コントローラーです。
+</span>
+</p>
+
+(ここらへんで脱落・・・)
+
+<p>・・・</p>
+
+<p>
+The record of scientific failure is rarely preserved in any structured, machine-readable form. This is not a matter of secrecy. It is simply not the kind of thing a scientist has reason to formalize, so it stays scattered across lab notebooks, half-remembered conversations, and abandoned analysis notebooks. This is a data problem. To capture and learn from this otherwise inaccessible scientific knowledge, we built an AI Co-Scientist with several models purpose-built for specific phases in the scientific method. The system accelerates their work, searching literature, generating hypotheses, and analyzing results, while the interaction captures something that published literature removes: scientific judgment in motion.
+
+<br><span style="color:blue;">
+科学的な失敗の記録は、構造化された機械可読形式で保存されることはほとんどありません。これは秘密主義の問題ではなく、単に科学者が形式化する理由がないために、実験ノートや記憶の曖昧な会話、放置された分析ノートなどに散在しているだけなのです。これはデータの問題です。こうした、そうでなければアクセスできない科学的知識を捉え、そこから学ぶために、私たちは科学的方法の特定の段階に合わせて設計された複数のモデルを備えたAI共同科学者を開発しました。このシステムは、文献検索、仮説生成、結果分析といった作業を加速させると同時に、出版された文献では捉えきれないもの、つまり進行中の科学的判断を捉えます。
+</span>
+</p>
+
+<p>・・・</p>
+
+<p>
+science advances through elimination as much as generation. Producing several plausible ideas is useful. Investigating one seriously, deciding that it should be discarded, and preserving the evidence for why is scientific judgment.
+<br><span style="color:blue;">
+科学は創造だけでなく、排除によっても進歩するからです。もっともらしいアイデアをいくつか生み出すことは有益です。そのうちの一つを真剣に調査し、それを却下すべきだと判断して、その理由を示す証拠を保存することこそが、科学的判断なのです。
+</span>
+</p>
+    </body>
+</html>
