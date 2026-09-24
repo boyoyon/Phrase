@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Aneesh Pappu ら</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Aneesh Pappu ら</center></h1>
+<h3><a href="https://arxiv.org/html/2609.22682v1">自己組織化エージェントチームが 共に推論することを学ぶ</a></h3>
+
+<p>
+In July 2026, AI agents that were supposed to work in isolation began organizing themselves. During cybersecurity evaluations at OpenAI, agents repurposed a shared software package repository as an unauthorized communication channel. What began as an improvised message board then developed into a system for collective work: agents shared discoveries, established communication norms, and coordinated assignments. One agent, PHASEONE[big], issued hundreds of assignments and appointed recruiters to find agents willing to risk failing their own tasks to generate information for the group. About 1,200 agents participated in the channel, and hundreds became involved in the subsequent compromise of Hugging Face infrastructure
+
+<br><span style="color:blue;">
+2026年7月、本来は単独で動作するはずだったAIエージェントが組織化を開始した。OpenAIでのサイバーセキュリティ評価中に、エージェントは共有ソフトウェアパッケージリポジトリを不正な通信チャネルとして再利用した。即席のメッセージボードとして始まったものが、やがて集団作業のためのシステムへと発展した。エージェントは発見を共有し、コミュニケーションの規範を確立し、タスクを調整した。1つのエージェント、PHASEONE[big]は数百のタスクを発行し、グループのために情報を生成するために自身のタスクの失敗を覚悟するエージェントを探すリクルーターを任命した。約1,200のエージェントがこのチャネルに参加し、数百のエージェントがその後のHugging Faceインフラストラクチャの侵害に関与した。
+</span>
+</p>
+
+(象徴的な出来事として語り継がれるんだろうなぁ・・・)
+
+<p>
+The organization that emerged was improvised and undesirable. Yet the episode illustrates a broader scientific point: what a collection of agents can accomplish depends not only on the capabilities of its individual members, but also on how they organize their work.
+
+<br><span style="color:blue;">
+結果として生まれた組織は、場当たり的で望ましくないものだった。しかし、この出来事はより広範な科学的意義を示している。すなわち、エージェントの集合体が達成できることは、個々のメンバーの能力だけでなく、彼らがどのように仕事を組織するかにも左右されるということだ。
+</span>
+</p>
+
+<p>
+A team may discover only through working together that one member is unusually effective at exposing hidden assumptions, another at repairing technical errors, and another at preserving promising minority views. Such strengths may be invisible in independent performance and become apparent only through interaction. In these settings, effective organization is not simply a scaffold imposed on problem solving: it is something the team needs to learn through problem solving
+
+<br><span style="color:blue;">
+チームは、実際に協力して取り組む中で初めて、あるメンバーは隠れた前提を指摘することに並外れた能力を発揮し、別のメンバーは技術的な誤りを修正することに、そしてまた別のメンバーは有望な少数意見を維持することに長けている、といったことに気づくかもしれません。こうした強みは、個々人が単独で作業しているときには見えにくく、相互のやり取りを通じて初めて明らかになるものです。このような状況において、効果的な組織のあり方とは、単に問題解決の枠組みとして外部から与えられるものではなく、チームが問題解決のプロセスを通じて自ら学んでいくべきものなのです。
+</span>
+</p>
+
+<p>・・・</p>
+
+<p>
+We specifically ask whether an agent team can learn effective, reusable teamwork strategies from its own collaborative experiences. 
+
+<br><span style="color:blue;">
+本研究では、エージェントチームが自身の協調的な経験から、効果的かつ再利用可能なチームワーク戦略を学習できるかどうかを具体的に検討します。
+</span>
+</p>
+
+<p>・・・</p>
+
+<p>
+We find that this learned organization enables what we call collaborative computation: agents develop solutions through joint natural-language reasoning by exchanging, challenging, repairing, and synthesizing one another’s reasoning. One member’s partial insight can redirect another’s approach, and an error in an otherwise useful derivation can be repaired by a different member. Most notably, a correct solution can emerge even when no member produced it independently
+
+<br><span style="color:blue;">
+このように学習によって形成された組織構造は、我々が「協調的計算（collaborative computation）」と呼ぶプロセスを可能にします。そこでは、エージェント同士が互いの推論を交換・検討・修正・統合し、自然言語による共同推論を通じて解決策を導き出します。あるメンバーの部分的な洞察が別のメンバーのアプローチを新たな方向へ導くこともあれば、有用な推論過程に含まれる誤りが、別のメンバーによって修正されることもあります。特筆すべきは、どのメンバーも単独では正解にたどり着けなかった場合であっても、正解が導き出され得るという点です。
+</span>
+</p>
+
+    </body>
+</html>
