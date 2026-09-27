@@ -13,20 +13,16 @@
 
 <p>
 ●更新項目<br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/ignores_ninety_percent.html">Any theory of the brain or neural network that ignores ninety percent of the connections is bound to be wrong</a><br>
-　(脳やニューラルネットワークに関するどんな理論であれ、接続の90パーセントを無視するものは、間違いなく誤りである)
+・<a href="https://boyoyon.github.io/Phrase/data/brown_did_not_discover_brownian_motion.html">Brown did not discover Brownian motion. </a><br>
+　(ブラウンはブラウン運動を発見したわけではありません)
+<br><br>
+・<a href="https://boyoyon.github.io/Phrase/data/la_science_se_fait_avec_des_faits.html">
+La science se fait avec des faits, comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison.</a><br>
+　(科学は事実によって築かれます。ちょうど家が石で建てられるのと同じように。しかし、事実の集積が家ならぬ石の山にすぎないのと同様に、事実を積み重ねただけでは科学とは言えません)
 <br><br>
 ---<br>
-・<a href="https://boyoyon.github.io/Phrase/data/wrong_end.html">
-The ease of training AI on a task scales with how verifiable the task is, and scientific hypotheses sit at the wrong end of this asymmetry.</a><br>
-　(あるタスクを AI に学習させることの容易さは、そのタスクがどの程度検証可能かということに比例するが、科学的仮説はこの非対称性において「望ましくない側」に位置している。)<br>
-<br>
-・<a href="https://boyoyon.github.io/Phrase/data/july_2026.html">
-In July 2026, AI agents that were supposed to work in isolation began organizing themselves. </a></br>
-　(2026年7月、本来は単独で動作するはずだったAIエージェントが組織化を開始した。<br>
-<br>
-　象徴的な事件として語り継がれるんだろうなぁ・・・
+・<a href="https://boyoyon.github.io/Phrase/data/ignores_ninety_percent.html">Any theory of the brain or neural network that ignores ninety percent of the connections is bound to be wrong</a><br>
+　(脳やニューラルネットワークに関するどんな理論であれ、接続の90パーセントを無視するものは、間違いなく誤りである)
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -153,6 +149,11 @@ basic level, an intermediate noise level at which concepts are recognized with t
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/seeking_an_improvement.html">Bitter Lessons</a><br>
 　(苦い教訓) 
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/brown_did_not_discover_brownian_motion.html">Brown did not discover Brownian motion. </a><br>
+　(ブラウンはブラウン運動を発見したわけではありません)
 </p>
 
 <p>
@@ -517,6 +518,12 @@ In July 2026, AI agents that were supposed to work in isolation began organizing
 
 
 <h3 id="L">L</h3>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/la_science_se_fait_avec_des_faits.html">
+La science se fait avec des faits, comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison.</a><br>
+　(科学は事実によって築かれます。ちょうど家が石で建てられるのと同じように。しかし、事実の集積が家ならぬ石の山にすぎないのと同様に、事実を積み重ねただけでは科学とは言えません)
+</p>
 
 <p id="learn_to_forget">
 ● <a href="https://boyoyon.github.io/Phrase/data/learn_to_forget.html">learn to forget</a><br>
@@ -911,8 +918,14 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 <h3 id="Ka">か</h3>
 
 <p>
+● 哀しみの荘則棟<br>
+<br>
+　<a href="https://www.google.com/goto?url=CAESYwHrOzAVy4tD6AE-c8Q-KISFdVfFn3j50rHJcA3-dWJPpj1sd0weCj-zLnjUoJK7LdUxwAHNw0Kfbrej_QssAJRCMZwLqi-FHV9bm95cdsvmT5ZS2QzQoedAnn4daviXRMZk2Q">関根勤さんとナイツ塙さんの対談</a>　(9分過ぎ) で知った・・・
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/wait_for_me.html">
-彼女はウェイト・フォー・ミー<br>
+彼女はウェイト・フォー・ミー</a><br>
 </p>
 
 <p>
