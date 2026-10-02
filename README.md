@@ -13,16 +13,28 @@
 
 <p>
 ●更新項目<br>
+・<a href="https://boyoyon.github.io/Phrase/data/retina-and-cortex system.html">
+A retina-and-cortex system (retinex) may treat a color as a code
+for a three-part report from the retina, independent of the flux
+of radiant energy but correlated with the reflectance of objects</a><br>
+　(網膜・皮質系（レティネックス）は、色を、放射エネルギーの光束とは無関係でありながら物体の反射率とは相関する、網膜からの3要素からなる情報（レポート）の符号として処理している可能性がある。)
+<br><br>
+・ Number of people who drowned by falling into a pool correlates with Films Nicolas Cage appeared in<br>
+　(プールに転落して溺死した人の数 は ニコラス・ケイジの出演映画本数 と相関する)<br>
+　 The number of moviees Nicolas Cage appeared in correlates with The number of transportation security screeners in North Dakota<br>
+　(ニコラス・ケイジが出演した映画の数とノースダコタ州の空港保安検査員の数は相関している)<br>
+<br>
+　<a href="https://www.tylervigen.com/spurious-correlations?page=3
+spurious correlations">偽りの相関関係</a>
+<br><br>
+
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/brown_did_not_discover_brownian_motion.html">Brown did not discover Brownian motion. </a><br>
 　(ブラウンはブラウン運動を発見したわけではありません)
 <br><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/la_science_se_fait_avec_des_faits.html">
 La science se fait avec des faits, comme une maison avec des pierres ; mais une accumulation de faits n'est pas plus une science qu'un tas de pierres n'est une maison.</a><br>
 　(科学は事実によって築かれます。ちょうど家が石で建てられるのと同じように。しかし、事実の集積が家ならぬ石の山にすぎないのと同様に、事実を積み重ねただけでは科学とは言えません)
-<br><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/ignores_ninety_percent.html">Any theory of the brain or neural network that ignores ninety percent of the connections is bound to be wrong</a><br>
-　(脳やニューラルネットワークに関するどんな理論であれ、接続の90パーセントを無視するものは、間違いなく誤りである)
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -617,6 +629,16 @@ Move over, mathematicians, here comes AlphaProof.</a></br>
 </p>
 
 <p>
+● Number of people who drowned by falling into a pool correlates with Films Nicolas Cage appeared in<br>
+　(プールに転落して溺死した人の数 は ニコラス・ケイジの出演映画本数 と相関する)<br>
+　 The number of moviees Nicolas Cage appeared in correlates with The number of transportation security screeners in North Dakota<br>
+　(ニコラス・ケイジが出演した映画の数とノースダコタ州の空港保安検査員の数は相関している)<br>
+<br>
+　<a href="https://www.tylervigen.com/spurious-correlations?page=3
+spurious correlations">偽りの相関関係</a>
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/uber_die_hypothesen.html">Nun scheinen aber die empirischen Begriffe, in welchen die räumlichen Massbestimmungen gegründet sind, der Begriff des festen Körpers und des Lichtstrahls, im Unendlichkleinen ihre Gültigkeit zu verlieren</a><br>
 　(ところが、空間測定の基礎となる経験的概念、すなわち剛体や光線といった概念は、微小な領域においてはその妥当性を失うように思われる)
 </p>
@@ -697,6 +719,14 @@ Joan Robinson
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/Relativity.html">Relativity: The study of how, if you have a clock and I have a clock, it doesn’t mean a damn thing.</a><br>
 　(相対性理論：もしあなたが時計を持っていて、私が時計を持っていたとしても、それは何の意味も持たないということを研究する学問)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/retina-and-cortex system.html">
+A retina-and-cortex system (retinex) may treat a color as a code
+for a three-part report from the retina, independent of the flux
+of radiant energy but correlated with the reflectance of objects</a><br>
+　(網膜・皮質系（レティネックス）は、色を、放射エネルギーの光束とは無関係でありながら物体の反射率とは相関する、網膜からの3要素からなる情報（レポート）の符号として処理している可能性がある。)
 </p>
 
 <p>
