@@ -58,16 +58,32 @@
 <h3><a href="https://proceedings.neurips.cc/paper_files/paper/2005/file/0172d289da48c48de8c5ebf3de9f7ee1-Paper.pdf">『ベイズ的驚きは人の注意を惹きつける』</a> (2005) [pdf]</h3>
 
 <p>
-
+人の注意を惹きつける出来事は、単に確率が低い出来事ではなく、
+脳の予測 (事前確率分布) と異なる出来事 (事後確率分布) に遭遇したとき。
+<br><br>
+驚きとして捉えられ、予測 (世界モデル) を更新するための情報として利用される。
 </p>
 
 <p>
-・Shannon Surprisal：　確率の低い出来事<br>
-・Bayesian Surprisal： 脳の予測(事前確率分布)と出来事(事後確率分布)の違いが大きい出来事<br>
-<br>
-人の注意を惹きつける出来事は、単に確率が低い出来事ではなく、
-脳の予測(事前確率分布)と異なる出来事(事後確率分布)に遭遇したとき。<br>
-驚きとして捉えられ、予測(世界モデル)を更新するための情報として利用される。
+・Shannon Surprise：　確率の低い出来事
+
+\[
+I(x) = -\log p(x)=\log\frac{1}{p(x)}
+\]
+
+・Bayesian Surprisal： 脳の予測(事前確率分布)と出来事(事後確率分布)の違いが大きい出来事
+
+\[
+S(D,M)=D_{KL}\big(p(M|D)||p(M)\big)=\int p(M|D)\log\frac{p(M|D)}{p(M)}\;dM
+\]
+
+\[
+\begin{array}{l l}
+p(M) & \text{データを得る前のモデルの事前確率分布} \\
+p(M|D) & \text{データ D を得た後の事後確率分布} \\
+D_{KL} & \text{カルバック・ライブラー情報量}
+\end{array}
+\]
 
 </p>
     </body>
