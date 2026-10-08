@@ -13,6 +13,13 @@
 
 <p>
 ●更新項目<br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
+Revenge is a dish best served cold</a><br>
+　(復讐は冷まして食べるのが一番美味い)<br>
+　キルビルの冒頭で出てきた。
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/apple_pie_from_scratch.html">
 If you wish to make an apple pie from scratch, you must first invent the universe</a><br>
 　(アップルパイをゼロから作りたいなら、まず宇宙を創造しなければならない)<br>
@@ -20,10 +27,6 @@ If you wish to make an apple pie from scratch, you must first invent the univers
 ・清少納言　「秋はやまもろ」<br>
 　Youtube動画で見かけたけど見失ってしまった･･･<br>
 　ポストシーズンは山本由伸ということと思うけど、AIモードには理解されず･･･(そりゃそうか)
-<br><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/i_dont_think_i_have_ever.html">I don’t think I have ever done anything as peculiar in my life. Among other things, it shows a young man looking with interest at a print on the wall of an exhibition that features himself. How can this be? Perhaps I am not far removed from Einstein’s curved universe.</a></br>
-　(これまでの人生で、これほど奇妙なことをしたことはないと思う。とりわけ、この絵には、展覧会の壁に掛けられた版画を興味深そうに眺めている若者が描かれているのだが、その版画には彼自身が描かれているのだ。そんなことがどうして可能なのだろう？ おそらく私は、アインシュタインの湾曲した宇宙からそれほど遠くないところにいるのだろう)
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -729,6 +732,13 @@ of radiant energy but correlated with the reflectance of objects</a><br>
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
+Revenge is a dish best served cold</a><br>
+　(復讐は冷まして食べるのが一番美味い)<br>
+　キルビルの冒頭で出てきた。
+</p>
+
+<p>
 ● Run a day behind.<br>
 　(一日遅れて走れ)
 </p>
@@ -1003,6 +1013,10 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 ● [中動態]　<a href="https://boyoyon.github.io/Phrase/data/middle_voice.html">かつて、能動態でも受動態でもない「中動態」なる態が存在して･･･</a><br>
 </p>
 
+<p>
+●テレサ・ファイブ (陣内智則)
+</p>
+
 <h3 id="Na">な</h3>
 <p>
 ● なせば成る なさねば成らぬ何事も 成らぬは人の為さぬなりけり
@@ -1011,6 +1025,10 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/dozaemon_ha_huryu.html">
 なるほどこの調子で考えると、土左衛門は風流である</a><br>
+</p>
+
+<p>
+● 野口二・五郎 (陣内智則)
 </p>
 
 <h3 id="Ha">は</h3>
