@@ -13,20 +13,16 @@
 
 <p>
 ●更新項目<br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
-Revenge is a dish best served cold</a><br>
-　(復讐は冷まして食べるのが一番美味い)<br>
-　キルビルの冒頭で出てきた。
+・<a href="https://boyoyon.github.io/Phrase/data/theres_a_lot_of_problems.html">There's a lot of problems in the world which can
+really be solved by applying two or three times the persistence that other people
+will.</a></br>
+　(世の中には、他の人が発揮する2、3倍の粘り強さをもって取り組めば、実際に解決できる問題がたくさんあります)
 <br><br>
 ---<br>
-・<a href="https://boyoyon.github.io/Phrase/data/apple_pie_from_scratch.html">
-If you wish to make an apple pie from scratch, you must first invent the universe</a><br>
-　(アップルパイをゼロから作りたいなら、まず宇宙を創造しなければならない)<br>
-<br>
-・清少納言　「秋はやまもろ」<br>
-　Youtube動画で見かけたけど見失ってしまった･･･<br>
-　ポストシーズンは山本由伸ということと思うけど、AIモードには理解されず･･･(そりゃそうか)
+・<a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
+Revenge is a dish best served cold</a><br>
+　(復讐は冷めた状態で供される料理)<br>
+　キルビルの冒頭で出てきた。
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -734,7 +730,7 @@ of radiant energy but correlated with the reflectance of objects</a><br>
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
 Revenge is a dish best served cold</a><br>
-　(復讐は冷まして食べるのが一番美味い)<br>
+　(復讐は冷めた状態で供される料理)<br>
 　キルビルの冒頭で出てきた。
 </p>
 
@@ -811,6 +807,13 @@ Something Big Is Happening ･･･ </a></br>
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/theres_a_lot_of_problems.html">There's a lot of problems in the world which can
+really be solved by applying two or three times the persistence that other people
+will.</a></br>
+　(世の中には、他の人が発揮する2、3倍の粘り強さをもって取り組めば、実際に解決できる問題がたくさんあります)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/theyre_trying_to_please_you.html">they’re trying to please you, which means they’re lying to make you feel good, right?</a><br>
 　(システムはユーザーを喜ばせようとします。つまり、ユーザーの気分を良くするために嘘をつくわけです)
 </p>
@@ -858,7 +861,11 @@ Horace Walpole
 
 <p id="unreasonable_effectiveness">
 ● <a href="https://boyoyon.github.io/Phrase/data/unreasonable_effectiveness.html">The Unreasonable Effectiveness of Mathematics in the Natural Sciences</a><br>
-　(自然科学における数学の不合理な有効性)
+　(自然科学における数学の不合理な有効性)<br>
+<br>
+We are in a position similar to that of a man who was provided with a bunch of keys and who, having to open several doors in succession, always hit on the right key on the first or second trial. He became skeptical concerning the uniqueness of the coordination between keys and doors.
+<br>
+(私たちは、鍵の束を渡され、立て続けにいくつかのドアを開けなければならないときに、常に一回目か二回目の試みで正しい鍵を当てた男の立場に似ている。彼は、鍵とドアの対応関係の唯一性について懐疑的になったのである。)
 </p>
 
 <h3 id="V">V</h3>
@@ -987,9 +994,9 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 　　You are not a fish; how do you know the joy of fish?<br>
 　　子（し）魚に非（あら）ず、安（いず）くんぞ魚の楽（たの）しみを知（し）らんや<br>
 <br>
-荘子：「魚が気持ちよさそうに泳いでいる。これぞ魚の楽しみ（楽）だ」<br>
-恵子：「<strong>あなた（子）は魚ではない。どうして魚の楽しみがわかるのか？</strong>」<br>
-荘子：「あなたは私ではない。どうして私が魚の楽しみを知らないとわかるのか？」<br>
+　　荘子：「魚が気持ちよさそうに泳いでいる。これぞ魚の楽しみ（楽）だ」<br>
+　　恵子：「<strong>あなた（子）は魚ではない。どうして魚の楽しみがわかるの　か？</strong>」<br>
+　　荘子：「あなたは私ではない。どうして私が魚の楽しみを知らないとわかるのか？」
 </p>
 
 <p>
@@ -1001,6 +1008,12 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 <br>
 　Youtube動画で見かけたけど見失った･･･<br>
 　ポストシーズンは山本由伸ということと思うけど、AIモードには理解されず･･･(そりゃそうか)
+<br><br>
+　(AIモードの回答が変わった･･･)<br>
+
+　清少納言の言葉として「秋はやまもろ」というものは存在せず、正しくは『枕草子』の冒頭にある「秋は夕暮れ」です。
+<br><br>
+「秋はやまもろ」というフレーズは、主にネット上などで使われるパロディやネタ（スラング）です。メジャーリーグ（MLB）のロサンゼルス・ドジャースに所属するプロ野球選手、山本由伸（やまもと よしのぶ）投手の名前が、アメリカ現地で「ヤマモーロ（Yamamolo）」のように発音されることから、清少納言の「秋は〜」のフレーズとかけて「清少納言『秋はやまもろ』」などとユーモアを交えて表現されることがあります。
 </p>
 
 <p>
