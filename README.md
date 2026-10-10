@@ -13,6 +13,11 @@
 
 <p>
 ●更新項目<br>
+
+・<a href="https://boyoyon.github.io/Phrase/data/there_are_no_covenants_between_lions_and_men.html">
+There are no covenants between lions and men</a><br>
+　(獅子と人間との間に、信頼に足る誓約などはあり得ぬ)
+<br><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/theres_a_lot_of_problems.html">There's a lot of problems in the world which can
 really be solved by applying two or three times the persistence that other people
 will.</a></br>
@@ -799,6 +804,12 @@ Something Big Is Happening ･･･ </a></br>
 <p id="there_are_hosts_of_dopes">
 ● <a href="https://boyoyon.github.io/Phrase/data/there_are_hosts_of_dopes.html">there are hosts of dopes here</a><br>
 　(ここには大勢の愚か者がいる)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/there_are_no_covenants_between_lions_and_men.html">
+There are no covenants between lions and men</a><br>
+　(獅子と人間との間に、信頼に足る誓約などはあり得ぬ)
 </p>
 
 <p>
