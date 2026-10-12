@@ -13,7 +13,11 @@
 
 <p>
 ●更新項目<br>
-
+・<a href="https://boyoyon.github.io/Phrase/data/the_head_and_in_frontal_attach.html">
+THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH WRITER THAT THE CHARACTER OF THIS POINT IS THEREFORE ANOTHER METHOD FOR THE LETTERS THAT THE TIME OF WHO EVER TOLD THE PROBLEM FOR AN UNEXPECTED.</a><br>
+　(あるイギリスの作家に対する正面からの攻撃において、この点の性質は、予期せぬ問題について誰かが語ったその時における書簡のための、もう一つの手法であると言えます)
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/there_are_no_covenants_between_lions_and_men.html">
 There are no covenants between lions and men</a><br>
 　(獅子と人間との間に、信頼に足る誓約などはあり得ぬ)
@@ -22,12 +26,6 @@ There are no covenants between lions and men</a><br>
 really be solved by applying two or three times the persistence that other people
 will.</a></br>
 　(世の中には、他の人が発揮する2、3倍の粘り強さをもって取り組めば、実際に解決できる問題がたくさんあります)
-<br><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/revenge_is_a_dish.html">
-Revenge is a dish best served cold</a><br>
-　(復讐は冷まして食べるのが一番美味い)<br>
-　キルビルの冒頭で出てきた。
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -344,6 +342,12 @@ Half the job involves finding out what the new capabilities can do for people.</
 ● He had a fixed conviction that at least one of them must lead into summer weather. <br>
 　(彼は、少なくとも一つは夏の天候に通じているはずだと固く信じていました)<br>
 　『The Door into Summer』Robert A. Heinlein
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/the_head_and_in_frontal_attach.html">
+THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH WRITER THAT THE CHARACTER OF THIS POINT IS THEREFORE ANOTHER METHOD FOR THE LETTERS THAT THE TIME OF WHO EVER TOLD THE PROBLEM FOR AN UNEXPECTED.</a><br>
+　(あるイギリスの作家に対する正面からの攻撃において、この点の性質は、予期せぬ問題について誰かが語ったその時における書簡のための、もう一つの手法であると言えます)
 </p>
 
 <p>
