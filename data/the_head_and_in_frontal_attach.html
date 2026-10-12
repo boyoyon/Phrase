@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Claude Shannon</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Claude Shannon</center></h1>
+<p>
+THE HEAD AND IN FRONTAL ATTACK ON AN ENGLISH WRITER THAT THE CHARACTER OF THIS POINT IS THEREFORE ANOTHER METHOD FOR THE LETTERS THAT THE TIME OF WHO EVER TOLD THE PROBLEM FOR AN UNEXPECTED.
+<br><span style="color:blue;">
+あるイギリスの作家に対する正面からの攻撃において、この点の性質は、予期せぬ問題について誰かが語ったその時における書簡のための、もう一つの手法であると言えます。
+</span>
+</p>
+
+<br>
+
+(AIモードによる解説)
+
+<p>
+この文章は、クロード・シャノンが1948年に発表した記念碑的な論文『通信の数学的理論』の中で示された、「単語レベルの2次近似（ワードビッグラム・モデル）」によって自動生成されたテキストです。
+</p>
+
+<p>
+シャノンは、統計的な確率構造（前に出た単語の次にどの単語が来やすいかという頻度）を利用するだけで、意味や文法を一切教えなくても、人間が書いた言語に酷似したテキストが生成できることを証明しました。
+</p>
+
+<p>
+<strong>生成方法</strong>　本をランダムに開き、最初に見つけた単語（例：「THE」）を記録します。次に別のページを開き、「THE」という単語を見つけたらその「次の単語」（例：「HEAD」）を記録する、という作業を手作業で繰り返して作られました。
+</p>
+
+<p>
+<strong>局所的なコヒーレンス（つながり）</strong>　全体としては意味をなしませんが、部分的には「FRONTAL ATTACK ON AN ENGLISH WRITER（英国人作家への正面攻撃）」や「THE CHARACTER OF THIS POINT（この点の性質）」といった、自然な英語のフレーズが随所に現れています。
+</p>
+
+<p>
+<strong>歴史的価値</strong>　この「直前の言葉から次の言葉の確率を予測する」という仕組みは、現在のChatGPTなどの生成AI（大規模言語モデル）の基礎となる原理（次トークン予測）を70年以上前に先取りしたものです。
+</p>
+
+<p>
+シャノンが1948年に提示したこの実験は、まさに<strong><span style="color:magenta;">現代の大規模言語モデル（ChatGPTやClaudeなどのLLM）の「原型」そのもの</span></strong>です。
+</p>
+
+<p>
+シャノンの実験は、直前の単語（1個または数個）を見て、「次に来る確率が最も高い単語は何か」を連続して選ぶことで文章を作りました。
+現代のAIも、根本的な仕組みはこれと全く同じです。AIは「昨日、私は映画館に…」という文章の後に、「行った」「行って」「で」のどれが何％の確率で続くかを計算し、最も確率の高い（または自然な）言葉を次々に選択（生成）しています。これを現代の技術で「次トークン予測（Next-Token Prediction）」と呼びます。
+</p>
+
+<p>
+シャノンの手作業の実験では、直前の1〜2単語しか考慮できませんでした（これを2次近似、3次近似と呼びます）。そのため、部分的なフレーズは自然でも、文章全体としては意味が破綻していました。
+</p>
+
+<p>
+現代のAIが賢い理由は、この「直前に考慮できる言葉の数（文脈の長さ）」が桁違いに長いからです。<br>
+• シャノン： 直前の 1〜2単語 だけを見る。<br>
+• 現代のAI： 直前の <strong><span style="color:magenta;">数万〜数十万単語</span></strong>（本1冊分以上）の文脈を同時に見渡す。<br>
+</p>
+
+<p>
+シャノンは、どの単語の次にどの単語が来やすいかという「確率のデータ（言語モデル）」を、本をめくる手作業や単純な統計で集計していました。
+現代のAIは、インターネット上にある膨大なテキスト（数兆単語以上）を「トランスフォーマー（Transformer）」と呼ばれる超強力なAIアーキテクチャ（計算の仕組み）に読み込ませ、自動で巨大な確率のマップ（パラメータ）を構築しています。
+</p>
+    </body>
+</html>
