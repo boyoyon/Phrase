@@ -14,14 +14,14 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/aluminum_foil.html">
+念のため頭にアルミホイルも巻いておいた</a><br>
+　GMO「PCのコード抜き電源切るよう」のニュース動画へのコメント<br>
+<br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/youve_got_a_cult.html">
 if you can get people to believe something obviously absurd then you've got a cult</a><br>
 　(それほど明らかに馬鹿げたことを人々に信じ込ませることができるのなら、それはもうカルトだと言える)
-<br><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/in_the_absence_of_this_ring.html">
-In the absence of this ring,　we would be lost in the world.</a><br>
-　(このリングがなければ、私たちはこの世で途方に暮れてしまうでしょう) 
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -1061,6 +1061,12 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/dozaemon_ha_huryu.html">
 なるほどこの調子で考えると、土左衛門は風流である</a><br>
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/aluminum_foil.html">
+念のため頭にアルミホイルも巻いておいた</a><br>
+　GMO「PCのコード抜き電源切るよう」のニュース動画へのコメント<br>
 </p>
 
 <p>
