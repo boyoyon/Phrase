@@ -14,15 +14,18 @@
 <p>
 ●更新項目<br>
 
+・ <a href="https://pubs.aip.org/aip/adv/article/15/11/115319/3372193">RETRACTED: Universal consciousness as foundational field: A theoretical bridge between quantum physics and non-dual philosophy</a><br> 
+　(撤回：普遍意識を基礎場として捉える：量子物理学と非二元哲学を結ぶ理論的架け橋)<br>
+<br>
+　This article is being retracted effective May 7, 2026 due to concerns about its scientific validity.<br>
+　(本論文は、科学的妥当性に関する懸念から、2026年5月7日をもって撤回されます)<br>
+　やっぱり･･･
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/aluminum_foil.html">
 念のため頭にアルミホイルも巻いておいた</a><br>
 　GMO「PCのコード抜き電源切るよう」のニュース動画へのコメント<br>
 <br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/youve_got_a_cult.html">
-if you can get people to believe something obviously absurd then you've got a cult</a><br>
-　(それほど明らかに馬鹿げたことを人々に信じ込ませることができるのなら、それはもうカルトだと言える)
-<br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
 
@@ -742,6 +745,15 @@ A retina-and-cortex system (retinex) may treat a color as a code
 for a three-part report from the retina, independent of the flux
 of radiant energy but correlated with the reflectance of objects</a><br>
 　(網膜・皮質系（レティネックス）は、色を、放射エネルギーの光束とは無関係でありながら物体の反射率とは相関する、網膜からの3要素からなる情報（レポート）の符号として処理している可能性がある。)
+</p>
+
+<p>
+● <a href="https://pubs.aip.org/aip/adv/article/15/11/115319/3372193">RETRACTED: Universal consciousness as foundational field: A theoretical bridge between quantum physics and non-dual philosophy</a><br> 
+　(撤回：普遍意識を基礎場として捉える：量子物理学と非二元哲学を結ぶ理論的架け橋)<br>
+<br>
+　This article is being retracted effective May 7, 2026 due to concerns about its scientific validity.<br>
+　(本論文は、科学的妥当性に関する懸念から、2026年5月7日をもって撤回されます)<br>
+　やっぱり･･･
 </p>
 
 <p>
