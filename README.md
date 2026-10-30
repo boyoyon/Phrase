@@ -13,7 +13,17 @@
 
 <p>
 ●更新項目<br>
-
+・<a href="https://boyoyon.github.io/Phrase/data/one_atom_thick.html">
+The material is one atom thick, albeit it can be seen with an ordinary optical microscope</a><br>
+　(この物質は原子1個分の厚さしかありませんが、通常の光学顕微鏡で観察することができます)<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/if_its_just_a_lemma_then.html">what is the Yoneda lemma? And if it's just a lemma then - my gosh - what's the theorem?</a><br>
+　(米田の補題とは、いったい何なのだろうか？　それに、もしそれが単なる『補題』にすぎないのなら――あれ――『定理』のほうはどうなっているのだろう？<br>
+<br>
+・<a href="https://boyoyon.github.io/Phrase/data/the_hardest_trivial_thing_in_mathematics.html">the Yoneda lemma is the hardest trivial thing in mathematics</a><br>
+　(米田の補題は、数学における「最も難しい自明なこと」である)
+<br><br>
+---<br>
 ・ <a href="https://pubs.aip.org/aip/adv/article/15/11/115319/3372193">RETRACTED: Universal consciousness as foundational field: A theoretical bridge between quantum physics and non-dual philosophy</a><br> 
 　(撤回：普遍意識を基礎場として捉える：量子物理学と非二元哲学を結ぶ理論的架け橋)<br>
 <br>
@@ -21,11 +31,6 @@
 　(本論文は、科学的妥当性に関する懸念から、2026年5月7日をもって撤回されます)<br>
 　やっぱり･･･
 <br><br>
----<br>
-・<a href="https://boyoyon.github.io/Phrase/data/aluminum_foil.html">
-念のため頭にアルミホイルも巻いておいた</a><br>
-　GMO「PCのコード抜き電源切るよう」のニュース動画へのコメント<br>
-<br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
 
@@ -594,6 +599,12 @@ The Macintosh interface is very much like a pidgin. First and foremost, the Maci
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/one_atom_thick.html">
+The material is one atom thick, albeit it can be seen with an ordinary optical microscope</a><br>
+　(この物質は原子1個分の厚さしかありませんが、通常の光学顕微鏡で観察することができます)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/Math_is_not_yet_ready.html">Mathematics is not yet ready for such problems.</a><br>
 　(数学はまだこのような問題に対する準備ができていない)
 </p>
@@ -951,6 +962,11 @@ We are in a position similar to that of a man who was provided with a bunch of k
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/if_its_just_a_lemma_then.html">what is the Yoneda lemma? And if it's just a lemma then - my gosh - what's the theorem?</a><br>
+　(米田の補題とは、いったい何なのだろうか？　それに、もしそれが単なる『補題』にすぎないのなら――あれ――『定理』のほうはどうなっているのだろう？
+</p>
+
+<p>
 ● When a measure becomes a target, it ceases to be a good measure.<br>
 　(ある指標が目標になると、それはもはや良い指標ではなくなる)
 </p>
@@ -980,6 +996,11 @@ While it is impossible to describe any quale exhaustively in words, a quale can 
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/yes_i_am_the_devil.html">Yes, I am the devil!</a><br>
 　(イエスだ、私が悪魔だよ!)<br>
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/the_hardest_trivial_thing_in_mathematics.html">the Yoneda lemma is the hardest trivial thing in mathematics</a><br>
+　(米田の補題は、数学における「最も難しい自明なこと」である)
 </p>
 
 <p>
