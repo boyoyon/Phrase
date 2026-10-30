@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Dan Piponi</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Dan Piponi</center></h1>
+<p>
+ the Yoneda lemma is the hardest trivial thing in mathematics
+<br><span style="color:blue;">
+米田の補題は、数学における「最も難しい自明なこと」である
+</span>
+</p>
+
+<h3><a href="https://blog.sigfpe.com/2006/11/yoneda-lemma.html">無限の近傍</a></h3>
+2006/11/12
+
+<h4 style="padding-left:1em;">
+Reverse Engineering Machines with the Yoneda Lemma<br><span style="color:blue;">米田の補題を用いた機械のリバースエンジニアリング</span></h4>
+
+<p>
+I've decided that the <strong>Yoneda lemma is the hardest trivial thing in mathematics</strong>, though I find it's made easier if I think about it in terms of reverse engineering machines. So, suppose you have some mysterious machine. You know it's a pure functional Haskell machine (of course) with no funny stuff (no overlapping or incoherent instances or anything like that [1]).
+
+<br><span style="color:blue;">
+<strong>米田の補題は、数学における「最も難しい自明なもの」だ</strong>と私は結論づけた。もっとも、機械の「リバースエンジニアリング」という観点から考えると、少し理解しやすくなる。さて、ここに何やら謎めいた機械があるとしよう。この機械は（当然ながら）Haskellの純粋関数的な機械であり、厄介な仕掛け（インスタンスの重複や不整合など[1]）は一切含まれていないものとする。
+</span>
+</p><p>
+
+The machine works like this: for some fixed type A, whenever you give it a function of type A -> B it gives you back an object of type B. You can choose B to be whatever type you like, it always works. Is it possible to reproduce the machine exactly after testing it just a finite number of times? Sounds impossible at first, it seems the machine could do just about anything.
+
+<br><span style="color:blue;">
+その機械は次のように動作します。ある固定された型 A に対して、型 A -> B の関数を与えると、型 B のオブジェクトが返ってくるのです。型 B は自由に選ぶことができ、どのような型であっても必ず機能します。さて、有限回だけテストを行うことで、この機械と全く同じものを再現することは可能でしょうか？一見すると不可能に思えます。この機械は、ほとんど何でもできてしまうように見えるからです。
+</span>
+</p><p>
+
+Think about how this machine could work. You can choose B freely, and whatever B you choose, it needs to come up with an object in B. There is no way to do this uniformly in Haskell without doing funny stuff. (I'm ruling undefined to be funny stuff too.) So how could this machine possibly generate a B? There's only one possible way, it must use the function of type A -> B to generate it. So that's how it works. It has an object a of type A and when you hand it an f it returns f a. You should also be able to convince yourself that there's no way it could vary the a depending on what f you give it. (Try writing a function that does!) Having narrowed the machine's principle down, it's now easy to figure out what a the machine is using. Just hand it id and it'll hand you back a. So in one trial you can deduce exactly what the machine does (at least up to functional equivalence).
+
+<br><span style="color:blue;">
+この「機械」がどのように動作し得るか考えてみましょう。あなたは型 B を自由に選ぶことができますが、どのような B を選んだとしても、その機械は B 型の値を一つ提示しなければなりません。Haskell において、特別な（あるいは「奇妙な」）手法に頼ることなく、これを一貫したやり方で行うことは不可能です。（ここで言う「特別な手法」には、`undefined` を用いることも含めます。）では、この機械は一体どうやって B 型の値を生成しているのでしょうか？考えられる方法はただ一つ、A -> B 型の関数を利用して生成するしかありません。つまり、仕組みはこうです。この機械は内部に A 型の値 `a` を保持しており、関数 `f` を与えられると、`f a` を返すのです。また、与える関数 `f` に応じて内部の `a` を変化させることはできない、という点も納得できるはずです（実際にそのような関数を書こうとしてみれば、それができないことがわかるでしょう！）。機械の動作原理がこうだと分かれば、内部でどのような値 `a` が使われているのかを突き止めるのは簡単です。恒等関数 `id` を渡してやれば、その値 `a` が返ってくるからです。つまり、たった一度の試行で、この機械が何をしているのかを（少なくとも関数としての等価性の範囲内で）完全に特定できるというわけです。
+</span>
+</p>
+
+<p>
+<center>:</center>
+</p>
+    </body>
+</html>

@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Joseph Maher</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Joseph Maher</center></h1>
+
+<p>
+"what is the Yoneda lemma? And if it's just a lemma then - my gosh - what's the theorem?"
+<br><span style="color:blue;">
+「米田の補題とは、いったい何なのだろうか？　それに、もしそれが単なる『補題』にすぎないのなら――あれ――『定理』のほうはどうなっているのだろう？」
+</span>
+</p>
+
+
+<p>
+Math is the reverse of comedy.* The anti-joke. We'll tell you the punchline first, then laboriously explain to you why it was the right punchline.
+<br><span style="color:blue;">
+数学はコメディの対極にある。いわば「アンチ・ジョーク」だ。まずオチを明かし、それから、なぜそのオチが正解なのかを、手間暇かけて懇切丁寧に説明するのだから。
+</span>
+</p>
+
+<h3><a href="https://www.math3ma.com/blog/the-yoneda-perspective">米田の視点</a></h3>
+2017/8/30
+<p>
+In the words of Dan Piponi, it "is the hardest trivial thing in mathematics." The nLab catalogues it as "elementary but deep and central," while Emily Riehl nominates it as "arguably the most important result in category theory." Yet as Tom Leinster has pointed out, "many people find it quite bewildering."
+<br><span style="color:blue;">
+ダン・ピポニの言葉を借りれば、それは「数学における、最も難しい『些細なこと』」である。nLabでは「初等的でありながら深く、中心的なもの」と位置づけられており、エミリー・リールは「おそらく圏論において最も重要な結果」として挙げている。しかし、トム・レインスターが指摘するように、「多くの人が、これを非常に不可解だと感じている」のである。
+</span>
+</p><p>
+
+And what are they referring to?
+<br><span style="color:blue;">
+そして、それらは何を指しているのでしょうか？
+</span>
+</p><p>
+
+<p style="padding-left:4em;">The Yoneda lemma <span style="color:blue;">米田の補題</span></p>
+
+<p>
+"But," you ask, "what is the Yoneda lemma? And if it's just a lemma then - my gosh - what's the theorem?"
+
+<br><span style="color:blue;">
+「でも」とあなたは尋ねるかもしれない。「米田の補題とは、いったい何なのだろうか？　それに、もしそれが単なる『補題』にすぎないのなら――あれ――『定理』のほうはどうなっているのだろう？」
+</span>
+</p><p>
+
+Before answering, I'd like to motivate this result by taking a leisurely stroll through two of its corollaries. Actually, I'll start by saying I have no business strolling anywhere. A category theorist is qualified to showcase the glittering, multifaceted diamond that is the Yoneda lemma. I am not. But I like to tell you about things that I like, and I like the Yoneda lemma. So here we are!
+
+<br><span style="color:blue;">
+回答する前に、この結果が持つ意義を、そこから導かれる二つの系（けい）を眺めながら探ってみたいと思います。……もっとも、そもそも私ごときがそんな「散策」などという悠長なことをしている場合ではないのかもしれません。本来、圏論の専門家こそが、「米田の補題」という、きらびやかで多面的なダイヤモンドのような概念を披露するにふさわしいはずだからです。私には、その資格はありません。ですが、私は自分の好きなものについて語るのが好きで、そして「米田の補題」が大好きなんです。というわけで、さっそく見ていくことにしましょう！
+</span>
+</p><p>
+
+Now I could simply tell you the corollaries I have in mind, and I could simply tell you the lemma. But as Joseph Maher once said,
+
+<br><span style="color:blue;">
+ここで、私が考えている系をそのままお伝えすることもできますし、補題をそのままお伝えすることもできます。しかし、ジョセフ・マーハーがかつて言ったように、
+</span>
+</p><p style="padding-left:4em;">
+
+Math is the reverse of comedy.* The anti-joke. We'll tell you the punchline first, then laboriously explain to you why it was the right punchline.
+
+<br><span style="color:blue;">
+数学はコメディの対極にある。いわば「アンチ・ジョーク」だ。まずオチを明かし、それから、なぜそのオチが正解なのかを、手間暇かけて懇切丁寧に説明するのだから。
+</span>
+</p><p>
+
+So first I'll tell you a punchline - a summary of two corollaries of the Yoneda lemma. I've mentioned it previously on this blog, but my goal in this series is to anchor it to a more formal footing - i.e. laboriously explain why it's the right punchline. And it is the notion that
+
+<br><span style="color:blue;">
+まず最初に、米田の補題の2つの系を要約した、いわばオチをお伝えします。このブログで以前にも触れましたが、このシリーズでは、それをより正式な土台に据えること、つまり、なぜそれが正しいオチなのかを丁寧に説明することを目標としています。そして、それは、
+</span>
+</p><p style="padding-left:4em;">
+
+mathematical objects are completely determined by their relationships to other objects.
+
+<br><span style="color:blue;">
+数学的対象は、他の対象との関係によって完全に決定される。
+</span>
+</p><p>
+
+Let's call this the Yoneda perspective. It short, it says that if you want to understand objects (sets, groups, topological spaces, and so on) then in the words of Barry Mazur, you'll want to understand "the network of relationships they enjoy with all the other objects of their species." We've explored this idea in a couple of posts already - The Most Obvious Secret in Mathematics and The Sierpinski Space and its Special Property - so I won't elaborate here. (Do check them out if you haven't already! You can think of those posts as prequels to this one.) But I will mention that the Yoneda perspective motivates a viewpoint that some mathematicians - and ever increasingly this blog** - have adopted, namely the viewpoint that
+
+<br><span style="color:blue;">
+これを米田の視点と呼びましょう。簡単に言うと、オブジェクト（集合、群、位相空間など）を理解したいのであれば、バリー・マズールの言葉を借りれば、「それらが同種の他のすべてのオブジェクトと享受している関係のネットワーク」を理解する必要があるということです。この考え方については、すでに「数学における最も明白な秘密」と「シェルピンスキー空間とその特別な性質」という2つの記事で取り上げていますので、ここでは詳しく説明しません。（まだ読んでいない方はぜひ読んでみてください！これらの記事はこの記事の前編のようなものと考えてください。）しかし、米田の視点は、一部の数学者、そしてこのブログ**がますます採用している視点、つまり次のような視点を促していることを述べておきます。
+</span>
+</p><p>
+
+the properties of a mathematical object are more important than its definition.
+Why adopt this viewpoint? Because sounding off definitions is easy enough: The Cartesian product is..., the free group generated by a set is..., the quotient topology is.... But definitions don't always tell the whole story. Does the product naturally come with maps into or out of it? If the generating set of a free group sits inside another group, are the two groups related in some way? What do continuous functions out of a quotient space look like? These questions search for properties - defining characteristics - of an object. And the answers materialize once we widen our viewing angle and examine the object from the perspective of each object in category in which it lives.
+
+<br><span style="color:blue;">
+数学的対象においては、その定義よりも性質の方が重要である。
+なぜこのような視点をとるのだろうか。定義を口にすることは容易だからだ。「直積とは……」「集合によって生成される自由群とは……」「商位相とは……」といった具合に。しかし、定義が常にすべてを物語っているとは限らない。直積には、それに向かう写像や、それから出る写像が自然に伴っているだろうか。自由群の生成集合が別の群の中に含まれている場合、その二つの群の間には何らかの関係があるのだろうか。商空間から出る連続写像はどのようなものか。こうした問いは、ある対象の「性質」――すなわち、その対象を決定づける特徴――を探求するものである。そして、視点を広げ、その対象が属する圏における他の対象との関係という観点から考察してみると、それらの問いに対する答えが浮かび上がってくるのである。
+</span>
+</p><p>
+
+What do I mean?
+
+<br><span style="color:blue;">
+どういうことかというと？
+</span>
+</p><p>
+
+Suppose you want to discover properties about an object 
+\(X\). Now imagine putting yourself in the shoes of another object 
+\(Y\). Then ask, "What does 
+\(X\)  look like from 
+\(Y\)'s vantage point?" Now walk over to another object 
+\(Z\), put yourself in its shoes and ask, "How about now? What does 
+\(X\)
+ look like from over here?" Continue to do this until you've analyzed 
+\(X\)
+ from the perspective of every object in the category. Afterwards, you'll have gleaned a great deal of information about 
+\(X\).
+
+<br><span style="color:blue;">
+あるオブジェクト \(X\) の性質を調べたいとしましょう。次に、別のオブジェクト \(Y\) の立場になって考えてみてください。そして、「\(Y\) の視点から \(X\) はどのように見えるだろうか？」と自問してみましょう。次に、別のオブジェクト \(Z\) のところへ行き、その立場になって考えてみましょう。「今度はどうだろう？ \(X\) は
+
+ここからどのように見えるだろうか？」このようにして、カテゴリ内のすべてのオブジェクトの視点から \(X\) を分析していきます。そうすることで、\(X\) に関する多くの情報を得ることができるでしょう。
+</span>
+</p>
+
+<p>
+<a href="https://www.youtube.com/watch?v=vwF7AHTQaoc">https://www.youtube.com/watch?v=vwF7AHTQaoc</a>
+</p>
+
+<p>
+
+It's like the clip on the right. From one side, the sculpture looks like an elephant; from another, it looks like two giraffes. But neither angle gives a full description. To really understand the sculpture, we should view it from all possible vantage points. The same idea holds in category theory: more vantage points give more information. And here's the upshot: the Yoneda lemma implies:‍
+
+<br><span style="color:blue;">
+上のクリップのようなものです。ある角度から見ると、その彫刻はゾウのように見えますが、別の角度から見ると、2頭のキリンのように見えます。しかし、どちらの角度から見ても、その彫刻の全体像を完全に捉えることはできません。この彫刻を真に理解するには、考えうるあらゆる視点から眺めてみる必要があります。圏論においても同じことが言えます。視点が増えれば、それだけ得られる情報も増えるのです。そして、ここから導かれる結論として、米田の補題は次のようなことを示唆しています。
+</span>
+</p><p>
+
+all vantage points give all  information.
+
+<br><span style="color:blue;">
+あらゆる視点から、すべての情報が得られる。
+</span>
+</p><p>
+
+This is the essence of the Yoneda perspective mentioned above, and is one reason why categorically-minded mathematicians place so much emphasis on morphisms, commuting diagrams, universal properties, and the like. (Have you noticed?) It's all about relationships! Of course, this is all just intuition. What's the actual mathematics? What are those two corollaries? What did I mean by "...objects are completely determined by..."? What is a "relationship between two objects?" How do we consider the "vantage point of all objects in the category"? And how exactly is this captured by the Yoneda lemma?
+
+<br><span style="color:blue;">
+これこそが、前述した「米田の視点」の核心であり、圏論的な考え方をする数学者が、射（morphism）、可換図式、普遍性といったものを非常に重視する理由の一つです。（お気づきでしたか？）結局のところ、すべては「関係性」なのです！もちろん、これはあくまで直感に過ぎません。では、実際の数学的な内容はどのようなものなのでしょうか？言及した2つの系（corollary）とは何でしょうか？「対象が……によって完全に決定される」とは、どういう意味なのでしょうか？「2つの対象の間の関係」とは何でしょうか？「圏内のすべての対象という視点」を、私たちはどのように捉えるべきなのでしょうか？そして、これらは「米田の補題」によって、具体的にどのように捉えられるのでしょうか？
+</span>
+</p><p>
+
+These are the questions we'll answer next week.
+
+<br><span style="color:blue;">
+これらが、来週回答する質問です。
+</span>
+</p>
+
+    </body>
+</html>
