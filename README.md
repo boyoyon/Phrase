@@ -820,7 +820,7 @@ more.</a><br>
 </p>
 
 <p>
-● <<a href="https://boyoyon.github.io/Phrase/data/so_first_of_all_let_me_assert_my_firm_belief.html">
+● <a href="https://boyoyon.github.io/Phrase/data/so_first_of_all_let_me_assert_my_firm_belief.html">
 So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance…</a><br>
 　(まず何よりも、私が確信をもって申し上げたいのは、我々が恐れるべき唯一のものは「恐怖そのもの」であるということです。それは、後退を前進へと転じるために不可欠な取り組みを麻痺させてしまうような、名もなき、理屈に合わない、根拠のない恐怖なのです)
 </p>
