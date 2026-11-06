@@ -13,24 +13,19 @@
 
 <p>
 ●更新項目<br>
+・we argue that the era of Physical AI holds a second kind of equal importance, the person augmented by AI, and with it a second half of the endgame of AI. Alongside artificial general intelligence, which asks how intelligent a machine can be, stands AI-augmented human intelligence (AHI), which asks how much intelligence a machine can enable in a particular person. <br>
+　(我々は、「物理的AI（Physical AI）」の時代には、もう一つの重要な側面が存在すると主張する。それは「AIによって拡張された人間」というあり方であり、これこそがAIの究極的な到達点における「後半部分」を構成するものである。機械がどこまで知的になり得るかを問う「汎用人工知能（AGI）」と並んで、「AIによって拡張された人間の知能（AHI：AI-Augmented Human Intelligence）」という概念がある。これは、機械が特定の個人に対して、どれほどの知能をもたらし得るかを問うものである。) 
+<br><br>
+　<a href="https://arxiv.org/pdf/2611.05376">『自律エージェントから認知共生体へ』</a><br>
+　そういえば、PCが登場する 80～90年代にさかんに言われていた想像力の増幅装置みたいなことがAIでは言われなくなっていた・・・
+<br><br>
+---<br>
 ・
 Isaac Newton revolutionized our understanding of the physical world through his laws of motion and universal gravitation. Yet he also devoted substantial effort to alchemy and searching for hidden prophecies in biblical texts. Newton’s example illustrates a fundamental tension in scientific inquiry: the hunt for novel ideas can lead to extraordinary breakthroughs but also to futile pursuits.<br>
 　(アイザック・ニュートンは、運動の法則と万有引力の法則を通じて、物理的世界に対する我々の理解を根本から変革した。その一方で、彼は錬金術や、聖書の記述に隠された予言の探求にも多大な労力を注いだ。ニュートンの事例は、科学的探究における根本的な緊張関係を浮き彫りにしている。すなわち、新しいアイデアの追求は、驚異的なブレイクスルーをもたらすこともあれば、無益な探求に終わることもあるということである。)<br>
 <br>
 　『<a href="https://arxiv.org/html/2611.03617v1">LLMの科学的発見 能力を訓練データに遡って分析する</a>』 (2026/11/02)<br>
 　　LLMが発見を行うためには、希少な事実(モノファクト)が重要であることや、発見と幻覚は表裏一体であることを示した（らしい･･･)
-<br><br>
----<br>
-・ In 1960, von Foerster, Mora and Amiot fitted a hyperbola 
-N(t) ∝ (t∗−t)<sup>−1</sup> to two millennia of world population and dated its singularity to Friday, 13 November, A.D. 2026<br>
-　(1960年、フォン・フェルスター、モーラ、アミオの3名は、2000年間にわたる世界人口のデータに双曲線関数 N(t) ∝ (t^* - t)<sup>-1</sup> を当てはめ、その特異点が西暦2026年11月13日（金曜日）に到来すると算出した)<br>
-<br>
-　ノストラダムスで散々煽られたので、騙されないけど･･･
-<br><br>
-・charge of the love brigade<br>
-　(愛の旅団（部隊）の突撃)<br>
-<br>
-1976年に発表されたアルバム『華麗なるレース（A Day at the Races）』に収録されたクイーン（Queen）の楽曲「The Millionaire Waltz（ミリオネア・ワルツ）」の歌詞中の「charge of the love brigade」というフレーズは、アルフレッド・テニソンの詩「軽騎兵の突撃（The Charge of the Light Brigade）」のパロディ(フレディ・マーキュリーによる造語)とされています。
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -956,6 +951,14 @@ We are in a position similar to that of a man who was provided with a bunch of k
 <p id="walking_through_doorways">
 ● <a href="https://boyoyon.github.io/Phrase/data/walking_through_doorways.html">Walking through doorways causes forgetting</a><br>
 　(ドアを通り抜けると忘れてしまう)
+</p>
+
+<p>
+● we argue that the era of Physical AI holds a second kind of equal importance, the person augmented by AI, and with it a second half of the endgame of AI. Alongside artificial general intelligence, which asks how intelligent a machine can be, stands AI-augmented human intelligence (AHI), which asks how much intelligence a machine can enable in a particular person. <br>
+　(我々は、「物理的AI（Physical AI）」の時代には、もう一つの重要な側面が存在すると主張する。それは「AIによって拡張された人間」というあり方であり、これこそがAIの究極的な到達点における「後半部分」を構成するものである。機械がどこまで知的になり得るかを問う「汎用人工知能（AGI）」と並んで、「AIによって拡張された人間の知能（AHI：AI-Augmented Human Intelligence）」という概念がある。これは、機械が特定の個人に対して、どれほどの知能をもたらし得るかを問うものである。) 
+<br><br>
+　<a href="https://arxiv.org/pdf/2611.05376">『自律エージェントから認知共生体へ』</a><br>
+　そういえば、PCが登場する 80～90年代にさかんに言われていた想像力の増幅装置みたいなことがAIでは言われなくなっていた・・・
 </p>
 
 <p>
