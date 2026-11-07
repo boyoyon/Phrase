@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="ja">
+    <head>
+        <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <meta charset="utf-8" />
+        <title>Shunyu Yao（姚顺雨）</title>
+        <style type="text/css">
+            p
+            {
+                padding-left: 2em;
+            }
+           .margin-abstract {
+               margin-left: 60px; /* 左マージンを広くする */
+               margin-right: 60px; /* 右マージンを広くする */
+           }
+        </style>
+    <style>
+        .styleRef { 
+            text-indent: -40px; /* 最初の行の字下げを逆方向に */
+            margin-left: 10px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+    <style>
+        .styleBullet { 
+            text-indent: -20px; /* 最初の行の字下げを逆方向に */
+            margin-left: 30px; /* 2行目以降の字下げを調整 */
+            ul {
+                  list-style-type: none; /* 箇条書き記号を非表示 */
+                  padding-left: 40px; /* 全体の左余白 */
+            }
+            li {
+            }
+        }
+    </style>
+<style>
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.column {
+  flex: 0.50%; /* 幅を50%に設定して2列に */
+  box-sizing: border-box;
+  padding: 10px;
+}
+</style>
+
+    </head>
+    <body>
+        <h1><center>Shunyu Yao（姚顺雨）</center></h1>
+<p>
+It turned out the most important part of RL might not even be the RL algorithm or environment, but the priors, which can be obtained in a way totally unrelated from RL.
+<br><span style="color:blue;">
+強化学習において最も重要な部分は、強化学習アルゴリズムや環境ではなく、強化学習とは全く関係のない方法で得られる事前知識であることが明らかになりました。
+</span>
+</p>
+
+<br>
+
+AIモードによる解説
+
+<h4><a href="https://ysymyth.github.io/The-Second-Half/">後半戦</a></h4>
+
+<p>
+OpenAIの研究者（ReActやTree of Thoughtsなどの著者）であるShunyu Yao（姚顺雨）氏のエッセイ『The Second Half』（2025年4月10日公開）の中の一節。
+</p>
+
+<p>
+該当箇所（"The recipe" セクション）の「It turned out...（蓋を開けてみれば〜だった）」と結論づけられるに至った根拠として、筆者が直接挙げているのは特定の1本の論文ではなく、OpenAIの一連のプロジェクトと事前学習モデル群の変遷です。
+</p>
+
+<h4 style="padding-left:1em;">先行する「環境重視」アプローチの限界（前段の文脈）</h4>
+
+<p>
+OpenAI Gym / World of Bits / Universe（2016〜2017年頃）：「あらゆるデジタル世界をRLの環境（environment）にすればAGIが作れる」という当時のOpenAIの計画を指しています。Dota（OpenAI Five）やロボットハンドなど単一領域では成功したものの、汎用的なWeb操作やPC操作には至りませんでした。
+</p>
+
+<h4 style="padding-left:1em;">「事前知識（Priors）」の重要性を決定づけた転換点（該当文の直前）</h4>
+
+<p>
+GPT-2（2019年） / GPT-3（2020年）：RLとは全く無関係な「大規模な言語事前学習（次トークン予測）」によってモデルに一般的な常識と言語知識（＝Priors）を蒸留できたことがすべての出発点とされています。
+</p>
+
+<p>
+WebGPT（2021年） / ChatGPT（InstructGPT）（2022年）：強力な事前学習モデル（GPT-3）という「事前知識（priors）」をベースにして初めて、それをファインチューニング（RLHF等）することで汎用的なWebエージェントや対話エージェントになり得た、という実例として挙げられています。
+</p>
+
+<h4 style="padding-left:1em;">その後の展開として続けて言及されている論文・モデル</h4>
+
+<p>
+さらに筆者はこの直後、言語の事前知識をエージェントの行動空間（推論＝Reasoning）と結びつけることで汎用化が達成された流れとして、以下の自身の研究と最新モデルを挙げています。
+</p>
+
+<p>
+CALM（Keep CALM and Explore: Language Models for Action Generation in Text-based Games）（Yao et al., NeurIPS 2020）：GPT-2の上にSFT/RLを適用した初期のエージェント研究（当時はまだ汎用化に課題があった事例）。
+</p>
+
+<p>
+ReAct: Synergizing Reasoning and Acting in Language Models（Yao et al., ICLR 2023）：「推論（思考）」をRLの行動空間に加えることで、事前学習の知識（priors）を汎用化させる突破口となった論文。
+</p>
+
+<p>
+OpenAI o-series（o1 / o3）および DeepSeek-R1：適切な事前知識（言語事前学習）と環境（推論の行動空間）が揃えば、RLアルゴリズム自体はむしろ最も些細な要素になり得ることを証明した到達点として言及されています。
+</p>
+
+<h4 style="padding-left:1em;">まとめ</h4>
+<p>
+この一文は特定の単一論文の実験結果を指すものではなく、「OpenAI Gym等の純粋なRL環境アプローチの停滞」から「GPT-2/3による事前学習 → WebGPT / ChatGPTでのブレイクスルー」という歴史的経緯全体を指して「蓋を開けてみれば（It turned out）」と総括した表現です。
+</p>
+    </body>
+</html>
