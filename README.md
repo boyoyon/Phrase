@@ -13,6 +13,23 @@
 
 <p>
 ●更新項目<br>
+・If we approach a task with ignorance, it can remove the barricade of knowledge blocking progress.<br>
+　(無知の状態で課題に取り組むことは、進歩を阻んでいる知識の壁（バリケード）を取り除くことにつながる)<br>
+　『The Creative Act: A Way of Being (リック・ルービンの創作術)』 Rick Rubin
+<br><br>
+・Classic reinforcement learning (RL) theories center on learning the expectation of potential rewarding outcomes and explain a wealth of neural data in the prefrontal cortex. Distributional RL, on the other hand, learns the full distribution of rewarding outcomes and better explains dopamine responses. In the present study, we show that distributional RL also better explains macaque anterior cingulate cortex neuronal responses, suggesting that it is a common mechanism for reward-guided learning.<br>
+　(従来の強化学習（RL）理論は、報酬が得られる結果の期待値を学習することに焦点を当てており、前頭前皮質における豊富な神経データを説明できる。一方、分布型強化学習（Distributional RL）は、報酬が得られる結果の全分布を学習するものであり、ドーパミン応答をより適切に説明できる。本研究では、分布型強化学習がマカクザルの前帯状皮質における神経応答もより適切に説明できることを示す。このことは、分布型強化学習が報酬に基づく学習に共通するメカニズムであることを示唆している。)
+<br>
+　『<a href="https://www.nature.com/articles/s41593-023-01535-w.pdf">前頭前皮質における分布型強化学習</a>』(2020)
+<br><br>
+
+Someone who has predicted a river’s level correctly for twenty weeks has earned a hearing when they explain a flood. It is less clear what their record establishes about a crop disease, and less clear still what it establishes about an angry spirit in the burial ground. <br>
+　(20週間にわたって川の水位を正確に予測し続けた人物が、洪水について説明するなら、その言葉には耳を傾ける価値があるだろう。しかし、その実績が農作物の病気について何を物語るのかはそれほど明確ではなく、ましてや墓地にいる怒れる霊について何を意味するのかとなると、さらに不透明である)
+<br>
+　『<a href="https://arxiv.org/html/2611.08855v1">目に見えない情報源について誰を信頼すべきかを学ぶ： 言語モデルにおける信頼性と妥当性の転移</a>』 <br>
+　のIntroduction。たとえが珍妙過ぎて気になる･･･
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/the_formula_(2)_was_first_suggested_to_me.html">
 The formula (2) was first suggested to me, together with an intuitive demonstration, by Dr A. M. Turing several years ago. Hence a very large part of the credit for the present paper should be given to him, and I am most grateful to him for allowing me to publish this work.</a><br>
 　(式(2)は、数年前にA. M. チューリング博士から、直感的な説明とともに初めて提示されたものである。したがって、本稿の功績の大部分は同氏に帰するべきものであり、本稿の公表を許可してくださった同氏に深く感謝する)
@@ -21,13 +38,6 @@ The formula (2) was first suggested to me, together with an intuitive demonstrat
 It turned out the most important part of RL might not even be the RL algorithm or environment, but the priors, which can be obtained in a way totally unrelated from RL.</a><br>
 　(強化学習において最も重要な部分は、強化学習アルゴリズムや環境ではなく、強化学習とは全く関係のない方法で得られる事前知識であることが明らかになりました)
 
-<br><br>
----<br>
-・we argue that the era of Physical AI holds a second kind of equal importance, the person augmented by AI, and with it a second half of the endgame of AI. Alongside artificial general intelligence, which asks how intelligent a machine can be, stands AI-augmented human intelligence (AHI), which asks how much intelligence a machine can enable in a particular person. <br>
-　(我々は、「物理的AI（Physical AI）」の時代には、もう一つの重要な側面が存在すると主張する。それは「AIによって拡張された人間」というあり方であり、これこそがAIの究極的な到達点における「後半部分」を構成するものである。機械がどこまで知的になり得るかを問う「汎用人工知能（AGI）」と並んで、「AIによって拡張された人間の知能（AHI：AI-Augmented Human Intelligence）」という概念がある。これは、機械が特定の個人に対して、どれほどの知能をもたらし得るかを問うものである。) 
-<br><br>
-　<a href="https://arxiv.org/pdf/2611.05376">『自律エージェントから認知共生体へ』</a><br>
-　そういえば、PCが登場する 80～90年代にさかんに言われていた想像力の増幅装置みたいなことがAIでは言われなくなっていた・・・
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -197,6 +207,13 @@ By forcing the student to imitate an artificially confident reasoning trace cond
 <p id="ChatGPT_is_a_blurry">
 ● <a href="https://boyoyon.github.io/Phrase/data/chatGPT_is_a_blurry.html">ChatGPT Is a Blurry JPEG of the Web</a><br>
 　(ChatGPTはWEBのぼやけたJPEG)
+</p>
+
+<p>
+● Classic reinforcement learning (RL) theories center on learning the expectation of potential rewarding outcomes and explain a wealth of neural data in the prefrontal cortex. Distributional RL, on the other hand, learns the full distribution of rewarding outcomes and better explains dopamine responses. In the present study, we show that distributional RL also better explains macaque anterior cingulate cortex neuronal responses, suggesting that it is a common mechanism for reward-guided learning.<br>
+　(従来の強化学習（RL）理論は、報酬が得られる結果の期待値を学習することに焦点を当てており、前頭前皮質における豊富な神経データを説明できる。一方、分布型強化学習（Distributional RL）は、報酬が得られる結果の全分布を学習するものであり、ドーパミン応答をより適切に説明できる。本研究では、分布型強化学習がマカクザルの前帯状皮質における神経応答もより適切に説明できることを示す。このことは、分布型強化学習が報酬に基づく学習に共通するメカニズムであることを示唆している。)
+<br>
+　『<a href="https://www.nature.com/articles/s41593-023-01535-w.pdf">前頭前皮質における分布型強化学習</a>』(2020)
 </p>
 
 <p>
@@ -436,6 +453,12 @@ Hinton
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/If_the_organism.html">If the organism carries a “small-scale model” of external reality and of its own possible actions within its head, it is able to try out various alternatives, conclude which is the best of them, react to future situations before they arise, utilise the knowledge of past events in dealing with the present and future, and in every way to react in a much fuller, safer, and more competent manner to the emergencies which face it.</a><br>
 　(生物が、外部の現実と自身の可能な行動の「小規模モデル」を頭の中に保持していれば、様々な選択肢を試してどれが最善かを結論づけ、将来の状況が発生する前に対応し、過去の出来事の知識を現在と未来への対処に活用し、あらゆる面で、直面する緊急事態に対してより包括的で安全かつ有能な方法で対応することができる。)
+</p>
+
+<p>
+● If we approach a task with ignorance, it can remove the barricade of knowledge blocking progress.<br>
+　(無知の状態で課題に取り組むことは、進歩を阻んでいる知識の壁（バリケード）を取り除くことにつながる)<br>
+　『The Creative Act: A Way of Being (リック・ルービンの創作術)』 Rick Rubin
 </p>
 
 <p>
@@ -832,6 +855,14 @@ more.</a><br>
 ● <a href="https://boyoyon.github.io/Phrase/data/so_first_of_all_let_me_assert_my_firm_belief.html">
 So, first of all, let me assert my firm belief that the only thing we have to fear is fear itself—nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance…</a><br>
 　(まず何よりも、私が確信をもって申し上げたいのは、我々が恐れるべき唯一のものは「恐怖そのもの」であるということです。それは、後退を前進へと転じるために不可欠な取り組みを麻痺させてしまうような、名もなき、理屈に合わない、根拠のない恐怖なのです)
+</p>
+
+<p>
+● Someone who has predicted a river’s level correctly for twenty weeks has earned a hearing when they explain a flood. It is less clear what their record establishes about a crop disease, and less clear still what it establishes about an angry spirit in the burial ground. <br>
+　(20週間にわたって川の水位を正確に予測し続けた人物が、洪水について説明するなら、その言葉には耳を傾ける価値があるだろう。しかし、その実績が農作物の病気について何を物語るのかはそれほど明確ではなく、ましてや墓地にいる怒れる霊について何を意味するのかとなると、さらに不透明である)
+<br>
+　『<a href="https://arxiv.org/html/2611.08855v1">目に見えない情報源について誰を信頼すべきかを学ぶ： 言語モデルにおける信頼性と妥当性の転移</a>』 <br>
+　のIntroduction。たとえが珍妙過ぎて気になる･･･
 </p>
 
 <p>
