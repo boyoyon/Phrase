@@ -358,7 +358,7 @@ The formula (2) was first suggested to me, together with an intuitive demonstrat
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/framing_ intuition.html">
+● <a href="https://boyoyon.github.io/Phrase/data/framing_intuition.html">
 framing intuition evolutionarily as a pathfinding mechanism emerging from the brain’s optimization of its relationship with the environment. </a><br>
 　(直感を、脳が環境との関係を最適化する過程で生じる「経路探索のメカニズム」として進化論的に捉える)
 </p>
