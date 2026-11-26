@@ -14,6 +14,22 @@
 <p>
 ●更新項目<br>
 
+・<a href="https://boyoyon.github.io/Phrase/data/quite_likely.html">Quite likely these changes will be so great that it will be beyond the power of human
+intelligence to get the necessary new ideas by direct attempts to formulate
+the experimental data in mathematical terms. </a><br>
+　(おそらく、こうした変革はあまりに大きなものとなるため、実験データを直接数学的な形式に落とし込もうと試みるだけでは、必要な新しい着想を得ることは人間の知性の及ぶところではないだろう)
+<br><br>
+・<a href="https://boyoyon.github.io/Phrase/data/conceptual_reason.html">
+Conceptual reason, the root of knowing, operates over words, which remain “representations of representations”</a><br>
+　(知識の根源である概念的理性は『言葉』を操作することで機能するが、その言葉自体は現実の直接的な捉え方ではなく、『表象のさらなる表象（二次的なコピー）』にすぎない)
+<br><br>
+・<a href="https://theconversation.com/ai-veganism-some-peoples-issues-with-ai-parallel-vegans-concerns-about-diet-260277">‘AI veganism’: Some people’s issues with AI parallel vegans’ concerns about diet</a><br>
+　(「AIビーガニズム」：AIに対する一部の人々の懸念は、ビーガンが食生活について抱く懸念と共通している)
+<br><br>
+　AIビーガン ･･･ AIを使わないこと
+<br><br>
+---<br>
+
 ・<a href="https://boyoyon.github.io/Phrase/data/this_approximate_validity_of_laws_of_symmetry.html">This approximate validity of laws of symmetry is, therefore, a very general phenomenon—it may be the general phenomenon.</a><br>
 　(したがって、対称性の法則のこの近似的な妥当性は、非常に一般的な現象である——それこそが一般的な現象なのかもしれない)<br>
 　「Symmetry and conservation laws」 Eugene Wigner<br>
@@ -38,17 +54,6 @@
 <br><br>
 ・<a href="https://boyoyon.github.io/Phrase/data/it_was_wonderful_living_there.html">it was wonderful living there: For entertainment, you could go down to the railway station and wait for a train to come in.</a><br>
 　(あそこでの暮らしは最高だったよ。何せ娯楽といえば、駅までぶらっと出かけて、列車が到着するのを眺めるくらいしかなかったからね)
-<br><br>
----<br>
-・now let an intelligent but finite and energy-conserving being be appointed pointsman to the flying molecules<br>
-　(さて、知性はあるが能力に限りがあり、かつエネルギーを節約する（エネルギー保存則に従う）存在を、飛び交う分子の『転轍手（ポイント切り替え係）』に任命したとしよう)
-<br>
-　1868年1月16日付けのマクスウェルからケルビン卿宛の手紙の中の一節<br>
-<br>
-・like a pointsman on a railway with perfectly acting switches, who should send the express along one line and the goods along another<br>
-　(完璧に作動する分岐器（ポイント）を備えた鉄道の転轍手（ポイント切り替え係）が、急行列車を一方の線路へ送り、貨物列車をもう一方の線路へ送るように)<br>
-　1870年12月6日付けのマクスウェルからレイリー卿宛ての手紙の一節<br>
-　マックスウェルは鉄道のポイントマンからインスピレーションを受け、これがマックスウェルの悪魔の起源となった、と以下に掛かれている。　<a href="https://arxiv.org/html/2611.25145v1">医学および基礎物理学における同位体</a>
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -77,6 +82,13 @@
 <p>
 ● <a href="https://boyoyon.github.io/Phrase/data/legitimacy_of_capitalism.html">After all, the legitimacy of capitalism depends on its capacity to turn the individual search for profits into benefits for everybody.</a><br> 
 　(結局のところ、資本主義の正当性は、個人の利益追求をすべての人々の利益へと転換する能力にかかっています)
+</p>
+
+<p>
+● <a href="https://theconversation.com/ai-veganism-some-peoples-issues-with-ai-parallel-vegans-concerns-about-diet-260277">‘AI veganism’: Some people’s issues with AI parallel vegans’ concerns about diet</a><br>
+　(「AIビーガニズム」：AIに対する一部の人々の懸念は、ビーガンが食生活について抱く懸念と共通している)
+<br><br>
+　AIビーガン ･･･ AIを使わないこと
 </p>
 
 <p>
@@ -235,6 +247,12 @@ By forcing the student to imitate an artificially confident reasoning trace cond
 </p>
 
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/conceptual_reason.html">
+Conceptual reason, the root of knowing, operates over words, which remain “representations of representations”</a><br>
+　(知識の根源である概念的理性は『言葉』を操作することで機能するが、その言葉自体は現実の直接的な捉え方ではなく、『表象のさらなる表象（二次的なコピー）』にすぎない)
+</p>
+
+<p>
 ● <a href="https://boyoyon.github.io/Phrase/data/history_isnt_a_smooth_progression.html">The current new revolution coexists with the previous one and will eventually coexist with the next.</a><br>
 　(現在の新たな革命は、以前の革命と共存し、いずれは次の革命とも共存するだろう)
 </p>
@@ -358,7 +376,7 @@ The formula (2) was first suggested to me, together with an intuitive demonstrat
 </p>
 
 <p>
-● <a href="https://boyoyon.github.io/Phrase/data/framing_intuition.html">
+● <a href="https://boyoyon.github.io/Phrase/data/framing_ intuition.html">
 framing intuition evolutionarily as a pathfinding mechanism emerging from the brain’s optimization of its relationship with the environment. </a><br>
 　(直感を、脳が環境との関係を最適化する過程で生じる「経路探索のメカニズム」として進化論的に捉える)
 </p>
@@ -779,7 +797,7 @@ Move over, mathematicians, here comes AlphaProof.</a></br>
 ・like a pointsman on a railway with perfectly acting switches, who should send the express along one line and the goods along another<br>
 　(完璧に作動する分岐器（ポイント）を備えた鉄道の転轍手（ポイント切り替え係）が、急行列車を一方の線路へ送り、貨物列車をもう一方の線路へ送るように)<br>
 　1870年12月6日付けのマクスウェルからレイリー卿宛ての手紙の一節<br>
-　マックスウェルは鉄道のポイントマンからインスピレーションを受け、これがマックスウェルの悪魔の起源となった、と以下に掛かれている。　<a href="https://arxiv.org/html/2611.25145v1">医学および基礎物理学における同位体</a>
+　マックスウェルは鉄道のポイントマンからインスピレーションを受け、これがマックスウェルの悪魔の起源となった、と以下に書かれている。　<a href="https://arxiv.org/html/2611.25145v1">医学および基礎物理学における同位体</a>
 
 </p>
 
@@ -862,6 +880,10 @@ Joan Robinson
 
 <h3 id="Q">Q</h3>
 <p>
+● <a href="https://boyoyon.github.io/Phrase/data/quite_likely.html">Quite likely these changes will be so great that it will be beyond the power of human
+intelligence to get the necessary new ideas by direct attempts to formulate
+the experimental data in mathematical terms. </a><br>
+　(おそらく、こうした変革はあまりに大きなものとなるため、実験データを直接数学的な形式に落とし込もうと試みるだけでは、必要な新しい着想を得ることは人間の知性の及ぶところではないだろう)
 </p>
 
 <h3 id="R">R</h3>
