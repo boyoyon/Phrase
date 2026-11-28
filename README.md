@@ -13,7 +13,10 @@
 
 <p>
 ●更新項目<br>
-
+・<a href="https://boyoyon.github.io/Phrase/data/there_is_however_a_certain_minimum_level.html">There is, however, a certain minimum level where this degenerative characteristic ceases to be universal. At this point automata which can reproduce themselves, or even construct higher entities, become possible. This fact, that complication, as well as organization, below a certain minimum level is degenerative, and beyond that level can become self-supporting and even increasing, will clearly play an important role in any future theory of the subject.</a><br>
+　(しかしながら、この退化的な特性が普遍的でなくなる、ある最小のレベルが存在する。この水準に達すると、自己を複製できるオートマトン、さらにはより高次の存在を構築できるオートマトンが可能になる。複雑さや組織化が、ある最小レベル未満では退化的であるのに対し、そのレベルを超えると自己維持的になり、さらには増大しうるというこの事実は、この主題に関する今後のあらゆる理論において、明らかに重要な役割を果たすことになるだろう)
+<br><br>
+---<br>
 ・<a href="https://boyoyon.github.io/Phrase/data/quite_likely.html">Quite likely these changes will be so great that it will be beyond the power of human
 intelligence to get the necessary new ideas by direct attempts to formulate
 the experimental data in mathematical terms. </a><br>
@@ -27,33 +30,6 @@ Conceptual reason, the root of knowing, operates over words, which remain “rep
 　(「AIビーガニズム」：AIに対する一部の人々の懸念は、ビーガンが食生活について抱く懸念と共通している)
 <br><br>
 　AIビーガン ･･･ AIを使わないこと
-<br><br>
----<br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/this_approximate_validity_of_laws_of_symmetry.html">This approximate validity of laws of symmetry is, therefore, a very general phenomenon—it may be the general phenomenon.</a><br>
-　(したがって、対称性の法則のこの近似的な妥当性は、非常に一般的な現象である——それこそが一般的な現象なのかもしれない)<br>
-　「Symmetry and conservation laws」 Eugene Wigner<br>
-<br>
-　アインシュタインの<br>
-　As far as the laws of mathematics refer to reality, they are not certain; and as far as they are certain, they do not refer to reality.<br>
-　(数学という完璧な理論は、現実世界に当てはめようとするとズレ（不確実さ）が生じ、逆に完璧に正しい数学のままでいようとすると、それは現実世界とは切り離された純粋な概念の中だけの話になってしまう)<br>
-　に通じるものを感じる･･･
-<br><br>
-・<a href="https://boyoyon.github.io/Phrase/data/stetigkeit_und_irrationale_zahlen.html">Für mich war damals dies Gefühl der Unbefriedigung ein so überwältigendes, daß ich den festen Entschluß faßte, so lange nachzudenken, bis ich eine rein arithmetische und völlig strenge Begründung der Prinzipien der Infinitesimalanalysis gefunden haben würde. </a><br>
-　(当時、私にとってこの不満の念はあまりに強烈なものであったため、無限小解析の諸原理に対して、純粋に算術的かつ完全に厳密な基礎を見出すまで、考察を突き詰めていくと固く決意したのである)<br>
-　「Stetigkeit und irrationale Zahlen」 Von Richard Dedekind (1892)<br>
-　(「(連続性と無理数)」 リヒャルト・デーデキント著 (1892) 
-<br><br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/symmetries_could_be_determined_by.html">In principle, symmetries could be determined by inspection of the equations of motion and the commutation rules of the Heisenberg field operators. … We prefer, however, to derive symmetry principles from experiment, and to use them as conditions on the unknown equations of motion, than the other way around.</a><br>
-　(原理的には、対称性は運動方程式やハイゼンベルク場の演算子の交換関係を調べることで決定できるはずだ。･･･ しかし我々は、対称性の原理を実験から導き出し、それを未知の運動方程式に対する制約条件として使う方を好む。その逆ではない。)
-<br><br>
-
-・<a href="https://boyoyon.github.io/Phrase/data/from_the_beginning.html">From the beginning it seemed to me to be a wonderful thing that very few quantum field theories are renormalizable. Limitations of this sort are, after all, what we most want; not mathematical methods which can make sense out of an infinite variety of physically irrelevant theories, but methods which carry constraints, because these constraints may point the way toward the one true theory.</a><br>
-　(最初から私にとって素晴らしいと思えたのは、繰り込み可能な場の量子論がごくわずかしかないという事実でした。結局のところ、私たちが最も求めているのはこうした種類の制限なのです。物理的に無関係な無限の種類の理論に意味を与えてしまうような数学的手法ではなく、制約を伴う手法こそが求められています。なぜなら、その制約こそが『唯一の真の理論』への道を示してくれるかもしれないからです)
-<br><br>
-・<a href="https://boyoyon.github.io/Phrase/data/it_was_wonderful_living_there.html">it was wonderful living there: For entertainment, you could go down to the railway station and wait for a train to come in.</a><br>
-　(あそこでの暮らしは最高だったよ。何せ娯楽といえば、駅までぶらっと出かけて、列車が到着するのを眺めるくらいしかなかったからね)
 <br><br>
 
 <a href="#">先頭</a>　<a href="#0-9">0-9</a>　<a href="#A">A</a>　 <a href="#B">B</a>　 <a href="#C">C</a>　 <a href="#D">D</a>　 <a href="#E">E</a>　 <a href="#F">F</a>　 <a href="#G">G</a>　<a href="#H">H</a>　 <a href="#I">I</a>　 <a href="#J">J</a>　 <a href="#K">K</a>　 <a href="#L">L</a>　 <a href="#M">M</a>　 <a href="#N">N</a>　<a href="#O">O</a>　 <a href="#P">P</a>　 <a href="#Q">Q</a>　 <a href="#R">R</a>　 <a href="#S">S</a>　 <a href="#T">T</a>　 <a href="#U">U</a>　<a href="#V">V</a>　 <a href="#W">W</a>　 <a href="#X">X</a>　 <a href="#Y">Y</a>　 <a href="#Z">Z</a><br>
@@ -1028,6 +1004,11 @@ There are no covenants between lions and men</a><br>
 really be solved by applying two or three times the persistence that other people
 will.</a></br>
 　(世の中には、他の人が発揮する2、3倍の粘り強さをもって取り組めば、実際に解決できる問題がたくさんあります)
+</p>
+
+<p>
+● <a href="https://boyoyon.github.io/Phrase/data/there_is_however_a_certain_minimum_level.html">There is, however, a certain minimum level where this degenerative characteristic ceases to be universal. At this point automata which can reproduce themselves, or even construct higher entities, become possible. This fact, that complication, as well as organization, below a certain minimum level is degenerative, and beyond that level can become self-supporting and even increasing, will clearly play an important role in any future theory of the subject.</a><br>
+　(しかしながら、この退化的な特性が普遍的でなくなる、ある最小のレベルが存在する。この水準に達すると、自己を複製できるオートマトン、さらにはより高次の存在を構築できるオートマトンが可能になる。複雑さや組織化が、ある最小レベル未満では退化的であるのに対し、そのレベルを超えると自己維持的になり、さらには増大しうるというこの事実は、この主題に関する今後のあらゆる理論において、明らかに重要な役割を果たすことになるだろう)
 </p>
 
 <p>
